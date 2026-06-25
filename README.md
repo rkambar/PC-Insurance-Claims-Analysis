@@ -88,7 +88,7 @@ This project was built using direct operational knowledge from:
   - Resolved claims within 14-day TAT mandate
   - Conducted focused and general quality audits targeting financial leakage
   - Floor SME driving daily task completion
-- **Omega Healthcare** — Insurance Claims Specialist (3.3 years)
+- **Omega Healthcare** — Insurance Claims Specialist (2.2 years)
   - High-value claims, aging reports, and adjudication under payer guidelines
 
 ---
