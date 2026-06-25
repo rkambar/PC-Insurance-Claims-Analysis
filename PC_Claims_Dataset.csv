@@ -1,0 +1,801 @@
+Claim_ID,Claim_Type,Region,Adjuster,Date_Filed,Date_Closed,TAT_Days,Status,Estimated_Loss_USD,Paid_Amount_USD,Denial_Reason,Leakage_USD
+CLM-0001,Property Damage,North America - East,Adjuster_C,2023-09-08,,,Open,14866.95,0,None,0
+CLM-0002,Property Damage,North America - East,Adjuster_B,2023-08-27,2023-09-05,9,Closed,107970.9,71650.86,None,-36320.04
+CLM-0003,Commercial Property,North America - East,Adjuster_B,2024-03-08,2024-03-14,6,Closed,17127.12,17127.12,None,0.0
+CLM-0004,Commercial Property,Australia,Adjuster_C,2023-02-14,2023-02-26,12,Closed,13662.43,13662.43,None,0.0
+CLM-0005,Commercial Property,Australia,Adjuster_B,2023-03-13,2023-04-04,22,Closed,128587.02,83356.44,None,-45230.58
+CLM-0006,Commercial Property,North America - West,Adjuster_C,2023-12-30,2024-01-03,4,Closed,92151.39,92151.39,None,0.0
+CLM-0007,Auto Liability,Europe - UK,Adjuster_D,2023-10-04,2023-10-15,11,Closed,126742.08,0,Coverage Lapsed,0
+CLM-0008,Workers Compensation,North America - Central,Adjuster_A,2023-08-05,2023-08-15,10,Closed,60553.52,69138.21,None,8584.69
+CLM-0009,Auto Liability,Australia,Adjuster_E,2023-09-27,,,Open,61111.27,0,None,0
+CLM-0010,Auto Liability,Australia,Adjuster_D,2023-04-04,2023-04-20,16,Closed,94862.01,0,Duplicate Claim,0
+CLM-0011,General Liability,Europe - UK,Adjuster_E,2023-09-15,2023-09-24,9,Closed,102893.13,102893.13,None,0.0
+CLM-0012,Commercial Property,North America - East,Adjuster_C,2024-03-21,2024-03-24,3,Closed,145839.44,0,Coverage Lapsed,0
+CLM-0013,General Liability,Australia,Adjuster_B,2023-06-06,,,Open,137937.04,0,None,0
+CLM-0014,Workers Compensation,North America - East,Adjuster_A,2024-01-07,2024-01-21,14,Closed,131945.42,140803.01,None,8857.59
+CLM-0015,Property Damage,Australia,Adjuster_B,2023-05-12,2023-06-11,30,Closed,41228.38,27417.85,None,-13810.53
+CLM-0016,General Liability,North America - West,Adjuster_C,2024-02-13,,,Open,68819.95,0,None,0
+CLM-0017,Property Damage,North America - Central,Adjuster_A,2023-08-24,2023-09-03,10,Closed,35883.38,0,Policy Exclusion,0
+CLM-0018,Commercial Property,Europe - UK,Adjuster_B,2023-05-16,2023-05-28,12,Closed,118123.67,0,Duplicate Claim,0
+CLM-0019,Commercial Property,Europe - UK,Adjuster_D,2024-04-23,2024-05-07,14,Closed,10970.68,0,Policy Exclusion,0
+CLM-0020,Auto Liability,Australia,Adjuster_D,2023-05-24,2023-05-31,7,Closed,131423.92,131423.92,None,0.0
+CLM-0021,General Liability,North America - East,Adjuster_A,2023-01-16,2023-01-18,2,Closed,73241.05,0,Insufficient Documentation,0
+CLM-0022,Workers Compensation,North America - Central,Adjuster_D,2023-10-20,2023-10-27,7,Closed,24909.93,24909.93,None,0.0
+CLM-0023,General Liability,Australia,Adjuster_A,2023-11-18,,,Open,138069.3,0,None,0
+CLM-0024,Property Damage,Australia,Adjuster_A,2023-07-10,2023-07-12,2,Closed,61758.78,71883.21,None,10124.43
+CLM-0025,Property Damage,Australia,Adjuster_A,2024-03-05,2024-03-16,11,Closed,140336.53,140336.53,None,0.0
+CLM-0026,Auto Liability,North America - Central,Adjuster_D,2023-05-15,2023-05-26,11,Closed,139494.71,146729.34,None,7234.63
+CLM-0027,General Liability,North America - East,Adjuster_A,2023-08-07,2023-08-16,9,Closed,132367.9,0,Fraud Suspected,0
+CLM-0028,Commercial Property,Australia,Adjuster_E,2023-01-09,2023-01-20,11,Closed,140961.64,0,Insufficient Documentation,0
+CLM-0029,General Liability,North America - West,Adjuster_C,2023-10-16,2023-10-26,10,Closed,103749.58,72324.82,None,-31424.76
+CLM-0030,Property Damage,North America - East,Adjuster_D,2023-10-11,2023-10-12,1,Closed,96292.78,96292.78,None,0.0
+CLM-0031,General Liability,Europe - UK,Adjuster_E,2023-01-10,2023-01-27,17,Closed,82747.36,0,Policy Exclusion,0
+CLM-0032,Property Damage,North America - Central,Adjuster_C,2023-02-10,2023-02-16,6,Closed,54344.44,54344.44,None,0.0
+CLM-0033,General Liability,North America - West,Adjuster_B,2023-06-16,2023-07-06,20,Closed,28545.38,34439.35,None,5893.97
+CLM-0034,Auto Liability,North America - Central,Adjuster_B,2023-04-21,2023-05-07,16,Closed,31536.78,35319.04,None,3782.26
+CLM-0035,Auto Liability,North America - West,Adjuster_A,2023-07-17,2023-07-24,7,Closed,145099.59,145099.59,None,0.0
+CLM-0036,Workers Compensation,Australia,Adjuster_C,2023-01-29,2023-01-31,2,Closed,7662.07,7662.07,None,0.0
+CLM-0037,Commercial Property,Europe - UK,Adjuster_E,2024-06-07,2024-07-04,27,Closed,39698.93,19875.65,None,-19823.28
+CLM-0038,General Liability,North America - West,Adjuster_C,2024-03-17,2024-03-19,2,Closed,108523.63,108523.63,None,0.0
+CLM-0039,Workers Compensation,North America - Central,Adjuster_D,2023-10-30,2023-11-08,9,Closed,102243.06,119941.64,None,17698.58
+CLM-0040,General Liability,North America - East,Adjuster_C,2023-10-21,,,Open,98896.43,0,None,0
+CLM-0041,Workers Compensation,North America - West,Adjuster_E,2024-04-29,2024-05-12,13,Closed,78286.9,78286.9,None,0.0
+CLM-0042,Auto Liability,North America - Central,Adjuster_B,2023-07-23,2023-07-26,3,Closed,92468.55,62657.83,None,-29810.72
+CLM-0043,General Liability,North America - West,Adjuster_D,2024-05-21,2024-05-28,7,Closed,134113.65,113370.48,None,-20743.17
+CLM-0044,Auto Liability,North America - West,Adjuster_E,2024-04-20,2024-04-21,1,Closed,69556.35,52887.54,None,-16668.81
+CLM-0045,General Liability,North America - Central,Adjuster_D,2024-05-31,2024-06-07,7,Closed,112061.01,112061.01,None,0.0
+CLM-0046,Auto Liability,North America - Central,Adjuster_E,2024-05-11,2024-05-22,11,Closed,107604.64,107604.64,None,0.0
+CLM-0047,General Liability,North America - East,Adjuster_B,2023-06-04,2023-06-08,4,Closed,11505.87,11505.87,None,0.0
+CLM-0048,Workers Compensation,North America - East,Adjuster_B,2024-03-06,2024-04-08,33,Closed,128796.34,0,Coverage Lapsed,0
+CLM-0049,Commercial Property,Europe - UK,Adjuster_D,2023-08-14,2023-08-22,8,Closed,6295.67,6295.67,None,0.0
+CLM-0050,Workers Compensation,North America - West,Adjuster_D,2023-05-11,2023-05-21,10,Closed,89600.13,47733.53,None,-41866.6
+CLM-0051,Workers Compensation,North America - West,Adjuster_A,2023-09-24,2023-10-01,7,Closed,51950.08,31612.67,None,-20337.41
+CLM-0052,Workers Compensation,North America - Central,Adjuster_A,2024-04-26,2024-04-27,1,Closed,35184.88,35184.88,None,0.0
+CLM-0053,Property Damage,North America - East,Adjuster_B,2023-07-24,2023-08-07,14,Closed,20680.7,14889.03,None,-5791.67
+CLM-0054,Commercial Property,North America - Central,Adjuster_B,2023-04-28,2023-05-18,20,Closed,87645.34,102120.79,None,14475.45
+CLM-0055,Workers Compensation,Europe - UK,Adjuster_B,2023-03-19,2023-03-29,10,Closed,127843.4,0,Fraud Suspected,0
+CLM-0056,Property Damage,North America - Central,Adjuster_E,2024-03-14,2024-03-25,11,Closed,3872.52,3872.52,None,0.0
+CLM-0057,Workers Compensation,North America - Central,Adjuster_D,2023-06-06,2023-06-13,7,Closed,93155.03,112245.13,None,19090.1
+CLM-0058,General Liability,North America - Central,Adjuster_C,2023-09-09,2023-09-23,14,Closed,38091.79,38091.79,None,0.0
+CLM-0059,Workers Compensation,North America - Central,Adjuster_A,2024-05-21,2024-06-04,14,Closed,54514.09,54514.09,None,0.0
+CLM-0060,General Liability,North America - Central,Adjuster_E,2023-01-11,2023-01-20,9,Closed,74309.52,57169.11,None,-17140.41
+CLM-0061,Workers Compensation,Europe - UK,Adjuster_A,2023-04-06,2023-04-11,5,Closed,47318.49,47318.49,None,0.0
+CLM-0062,General Liability,North America - Central,Adjuster_D,2023-12-05,2023-12-11,6,Closed,36119.63,22504.83,None,-13614.8
+CLM-0063,Auto Liability,North America - West,Adjuster_B,2024-05-10,,,Open,90325.03,0,None,0
+CLM-0064,Commercial Property,North America - West,Adjuster_C,2023-07-03,2023-07-08,5,Closed,42598.08,49442.39,None,6844.31
+CLM-0065,Auto Liability,Europe - UK,Adjuster_A,2023-01-13,2023-01-23,10,Closed,52424.48,57692.91,None,5268.43
+CLM-0066,Property Damage,North America - East,Adjuster_D,2024-05-18,2024-05-20,2,Closed,24455.6,0,Policy Exclusion,0
+CLM-0067,Property Damage,Australia,Adjuster_D,2023-08-20,2023-09-02,13,Closed,46008.26,46008.26,None,0.0
+CLM-0068,General Liability,Australia,Adjuster_A,2023-04-12,2023-04-25,13,Closed,99743.36,0,Insufficient Documentation,0
+CLM-0069,Auto Liability,North America - East,Adjuster_D,2024-04-06,2024-04-18,12,Closed,36258.48,28070.05,None,-8188.43
+CLM-0070,Auto Liability,North America - Central,Adjuster_E,2023-07-22,2023-07-29,7,Closed,136444.89,0,Coverage Lapsed,0
+CLM-0071,General Liability,Australia,Adjuster_C,2024-03-25,2024-03-27,2,Closed,141516.08,141516.08,None,0.0
+CLM-0072,Property Damage,Australia,Adjuster_A,2024-03-18,2024-03-30,12,Closed,15516.38,18886.41,None,3370.03
+CLM-0073,Property Damage,North America - Central,Adjuster_E,2023-02-11,2023-02-24,13,Closed,137578.77,137578.77,None,0.0
+CLM-0074,Workers Compensation,North America - East,Adjuster_D,2023-12-23,2023-12-30,7,Closed,128944.5,128944.5,None,0.0
+CLM-0075,Commercial Property,Europe - UK,Adjuster_E,2023-02-07,2023-02-15,8,Closed,19156.4,16039.94,None,-3116.46
+CLM-0076,Property Damage,Australia,Adjuster_D,2024-02-28,,,Open,113953.59,0,None,0
+CLM-0077,Property Damage,North America - West,Adjuster_C,2023-05-15,2023-06-13,29,Closed,19971.06,23401.58,None,3430.52
+CLM-0078,Auto Liability,North America - Central,Adjuster_E,2023-01-15,2023-01-24,9,Closed,70294.29,70294.29,None,0.0
+CLM-0079,Workers Compensation,North America - Central,Adjuster_E,2023-10-07,2023-11-06,30,Closed,69604.4,69604.4,None,0.0
+CLM-0080,General Liability,Australia,Adjuster_B,2023-03-13,,,Open,41541.55,0,None,0
+CLM-0081,Commercial Property,Australia,Adjuster_E,2024-05-16,2024-05-30,14,Closed,53078.34,53078.34,None,0.0
+CLM-0082,Workers Compensation,North America - Central,Adjuster_B,2023-09-02,2023-09-12,10,Closed,8459.8,6556.67,None,-1903.13
+CLM-0083,Workers Compensation,North America - West,Adjuster_D,2023-02-07,2023-03-10,31,Closed,130715.65,87804.24,None,-42911.41
+CLM-0084,Workers Compensation,North America - East,Adjuster_B,2024-02-24,2024-03-30,35,Closed,71484.61,79899.22,None,8414.61
+CLM-0085,Property Damage,North America - Central,Adjuster_E,2024-01-25,2024-01-31,6,Closed,131112.69,0,Coverage Lapsed,0
+CLM-0086,Auto Liability,North America - East,Adjuster_D,2023-04-11,2023-04-24,13,Closed,67664.43,0,Insufficient Documentation,0
+CLM-0087,Commercial Property,North America - Central,Adjuster_C,2024-03-17,,,Open,102906.45,0,None,0
+CLM-0088,Auto Liability,North America - East,Adjuster_E,2024-01-27,,,Open,23181.42,0,None,0
+CLM-0089,Commercial Property,Europe - UK,Adjuster_C,2023-01-10,,,Open,25380.39,0,None,0
+CLM-0090,Commercial Property,Australia,Adjuster_C,2024-03-10,2024-03-22,12,Closed,31484.12,31484.12,None,0.0
+CLM-0091,Auto Liability,Europe - UK,Adjuster_E,2024-01-03,2024-01-27,24,Closed,5247.06,0,Insufficient Documentation,0
+CLM-0092,General Liability,Europe - UK,Adjuster_C,2023-08-24,2023-09-03,10,Closed,93891.89,73344.78,None,-20547.11
+CLM-0093,Auto Liability,North America - East,Adjuster_A,2023-11-13,2023-11-26,13,Closed,110389.25,110389.25,None,0.0
+CLM-0094,Workers Compensation,North America - West,Adjuster_B,2023-05-16,2023-06-17,32,Closed,80566.15,97976.05,None,17409.9
+CLM-0095,Workers Compensation,North America - Central,Adjuster_C,2023-04-28,2023-05-06,8,Closed,129300.81,114066.26,None,-15234.55
+CLM-0096,General Liability,North America - Central,Adjuster_A,2024-02-09,2024-02-10,1,Closed,56550.68,34057.25,None,-22493.43
+CLM-0097,Commercial Property,North America - East,Adjuster_B,2024-04-27,,,Open,50544.93,0,None,0
+CLM-0098,Property Damage,Europe - UK,Adjuster_C,2024-02-23,2024-02-25,2,Closed,47045.96,0,Fraud Suspected,0
+CLM-0099,Auto Liability,Europe - UK,Adjuster_D,2024-01-15,2024-01-26,11,Closed,133041.24,109777.69,None,-23263.55
+CLM-0100,Commercial Property,North America - East,Adjuster_C,2023-08-11,2023-09-09,29,Closed,16704.48,11899.3,None,-4805.18
+CLM-0101,Commercial Property,North America - East,Adjuster_D,2023-10-10,2023-10-28,18,Closed,15567.67,15567.67,None,0.0
+CLM-0102,Property Damage,North America - East,Adjuster_C,2023-09-07,,,Open,32659.29,0,None,0
+CLM-0103,Auto Liability,North America - Central,Adjuster_B,2023-01-03,,,Open,39096.82,0,None,0
+CLM-0104,Property Damage,North America - West,Adjuster_A,2024-01-02,2024-01-15,13,Closed,27788.44,27788.44,None,0.0
+CLM-0105,General Liability,North America - East,Adjuster_A,2024-05-02,2024-05-10,8,Closed,68896.8,68896.8,None,0.0
+CLM-0106,General Liability,North America - Central,Adjuster_D,2023-02-01,2023-03-03,30,Closed,103542.43,103542.43,None,0.0
+CLM-0107,Property Damage,North America - East,Adjuster_C,2023-06-01,,,Open,83156.75,0,None,0
+CLM-0108,General Liability,Australia,Adjuster_C,2024-04-09,2024-04-18,9,Closed,128213.33,102557.26,None,-25656.07
+CLM-0109,Auto Liability,Europe - UK,Adjuster_D,2023-08-22,2023-09-16,25,Closed,63566.47,63566.47,None,0.0
+CLM-0110,Commercial Property,North America - Central,Adjuster_B,2024-04-30,2024-05-17,17,Closed,65917.72,0,Insufficient Documentation,0
+CLM-0111,General Liability,Australia,Adjuster_E,2023-12-04,2023-12-15,11,Closed,130477.64,114517.02,None,-15960.62
+CLM-0112,Commercial Property,North America - East,Adjuster_E,2024-06-03,2024-06-07,4,Closed,127396.68,127396.68,None,0.0
+CLM-0113,Property Damage,North America - Central,Adjuster_E,2023-08-20,,,Open,92808.85,0,None,0
+CLM-0114,Property Damage,Australia,Adjuster_C,2023-01-30,2023-02-02,3,Closed,138387.55,138387.55,None,0.0
+CLM-0115,Auto Liability,Australia,Adjuster_D,2023-03-13,2023-04-17,35,Closed,112424.54,112424.54,None,0.0
+CLM-0116,Commercial Property,North America - West,Adjuster_C,2023-11-16,,,Open,90241.12,0,None,0
+CLM-0117,General Liability,North America - East,Adjuster_A,2023-10-06,2023-10-14,8,Closed,63299.19,63299.19,None,0.0
+CLM-0118,Commercial Property,Europe - UK,Adjuster_A,2023-10-18,2023-10-29,11,Closed,8721.77,8721.77,None,0.0
+CLM-0119,Property Damage,North America - West,Adjuster_C,2023-08-05,2023-08-24,19,Closed,50562.11,50562.11,None,0.0
+CLM-0120,Auto Liability,North America - West,Adjuster_D,2024-06-29,2024-07-11,12,Closed,12667.17,0,Insufficient Documentation,0
+CLM-0121,Commercial Property,Australia,Adjuster_D,2024-02-19,2024-03-02,12,Closed,61944.78,67171.35,None,5226.57
+CLM-0122,Workers Compensation,North America - Central,Adjuster_A,2024-03-23,,,Open,61266.57,0,None,0
+CLM-0123,Commercial Property,North America - Central,Adjuster_B,2023-12-08,2023-12-21,13,Closed,80529.51,80529.51,None,0.0
+CLM-0124,Commercial Property,North America - West,Adjuster_B,2023-04-16,,,Open,24624.73,0,None,0
+CLM-0125,Workers Compensation,Europe - UK,Adjuster_E,2024-04-04,,,Open,49834.82,0,None,0
+CLM-0126,Workers Compensation,North America - East,Adjuster_D,2024-03-28,,,Open,10313.47,0,None,0
+CLM-0127,Commercial Property,Europe - UK,Adjuster_D,2023-02-08,2023-03-06,26,Closed,97410.64,104040.34,None,6629.7
+CLM-0128,Workers Compensation,Europe - UK,Adjuster_E,2023-02-12,2023-02-20,8,Closed,91540.86,91540.86,None,0.0
+CLM-0129,Workers Compensation,North America - East,Adjuster_C,2023-03-28,2023-04-06,9,Closed,106728.01,123250.97,None,16522.96
+CLM-0130,Commercial Property,North America - Central,Adjuster_C,2024-02-01,2024-02-08,7,Closed,118805.59,0,Insufficient Documentation,0
+CLM-0131,General Liability,Europe - UK,Adjuster_C,2023-09-16,2023-10-20,34,Closed,14062.29,12058.85,None,-2003.44
+CLM-0132,Workers Compensation,North America - West,Adjuster_E,2023-03-28,2023-04-02,5,Closed,122351.35,100731.13,None,-21620.22
+CLM-0133,General Liability,North America - East,Adjuster_D,2024-06-04,2024-06-10,6,Closed,142773.06,142773.06,None,0.0
+CLM-0134,Auto Liability,North America - West,Adjuster_B,2023-06-08,2023-07-02,24,Closed,77138.08,77138.08,None,0.0
+CLM-0135,General Liability,North America - East,Adjuster_C,2023-05-15,2023-05-25,10,Closed,125039.07,0,Duplicate Claim,0
+CLM-0136,Property Damage,Europe - UK,Adjuster_C,2023-09-01,2023-09-09,8,Closed,36632.44,36632.44,None,0.0
+CLM-0137,Workers Compensation,North America - West,Adjuster_C,2024-03-27,,,Open,80064.05,0,None,0
+CLM-0138,General Liability,North America - West,Adjuster_C,2023-02-23,,,Open,140275.45,0,None,0
+CLM-0139,Property Damage,North America - Central,Adjuster_A,2023-06-14,2023-07-13,29,Closed,124994.91,124994.91,None,0.0
+CLM-0140,Workers Compensation,North America - Central,Adjuster_A,2024-02-29,2024-03-01,1,Closed,59152.59,59152.59,None,0.0
+CLM-0141,Commercial Property,North America - East,Adjuster_C,2023-05-30,2023-06-02,3,Closed,105018.65,105018.65,None,0.0
+CLM-0142,Workers Compensation,Australia,Adjuster_A,2023-03-23,2023-03-24,1,Closed,83223.03,0,Coverage Lapsed,0
+CLM-0143,Auto Liability,North America - Central,Adjuster_A,2023-02-18,,,Open,69652.82,0,None,0
+CLM-0144,Workers Compensation,Australia,Adjuster_E,2023-01-17,2023-01-28,11,Closed,45108.25,45108.25,None,0.0
+CLM-0145,General Liability,Europe - UK,Adjuster_B,2023-03-29,,,Open,82524.13,0,None,0
+CLM-0146,Property Damage,Europe - UK,Adjuster_D,2023-02-14,2023-03-13,27,Closed,112602.86,0,Policy Exclusion,0
+CLM-0147,Property Damage,Australia,Adjuster_C,2023-05-17,2023-05-18,1,Closed,124896.78,110223.84,None,-14672.94
+CLM-0148,Auto Liability,North America - West,Adjuster_A,2024-04-13,2024-04-14,1,Closed,133096.98,133096.98,None,0.0
+CLM-0149,Workers Compensation,Australia,Adjuster_D,2023-09-17,2023-09-18,1,Closed,129596.5,129596.5,None,0.0
+CLM-0150,Commercial Property,North America - East,Adjuster_C,2024-03-23,2024-04-21,29,Closed,52177.42,52177.42,None,0.0
+CLM-0151,Commercial Property,Australia,Adjuster_C,2023-03-26,,,Open,149274.53,0,None,0
+CLM-0152,Commercial Property,North America - Central,Adjuster_A,2023-03-23,,,Open,108214.11,0,None,0
+CLM-0153,Workers Compensation,North America - Central,Adjuster_D,2023-02-13,2023-02-25,12,Closed,42634.19,0,Duplicate Claim,0
+CLM-0154,Commercial Property,Australia,Adjuster_B,2023-02-01,2023-02-04,3,Closed,7150.25,7150.25,None,0.0
+CLM-0155,Commercial Property,North America - Central,Adjuster_D,2023-02-03,2023-02-13,10,Closed,57057.98,41300.25,None,-15757.73
+CLM-0156,Workers Compensation,North America - Central,Adjuster_C,2023-09-13,2023-09-15,2,Closed,78626.3,84409.44,None,5783.14
+CLM-0157,Workers Compensation,North America - West,Adjuster_E,2023-10-20,2023-11-01,12,Closed,128218.29,128218.29,None,0.0
+CLM-0158,Workers Compensation,North America - East,Adjuster_C,2023-12-22,2024-01-03,12,Closed,133917.09,104134.67,None,-29782.42
+CLM-0159,Auto Liability,North America - Central,Adjuster_E,2023-08-18,2023-09-08,21,Closed,118975.21,118975.21,None,0.0
+CLM-0160,Commercial Property,Europe - UK,Adjuster_E,2023-05-13,2023-05-23,10,Closed,149940.07,105710.94,None,-44229.13
+CLM-0161,General Liability,North America - East,Adjuster_B,2023-11-21,,,Open,52988.19,0,None,0
+CLM-0162,General Liability,North America - West,Adjuster_B,2024-03-19,,,Open,24646.29,0,None,0
+CLM-0163,Commercial Property,North America - West,Adjuster_C,2024-06-15,,,Open,42618.75,0,None,0
+CLM-0164,General Liability,Australia,Adjuster_A,2024-05-29,,,Open,24820.75,0,None,0
+CLM-0165,General Liability,North America - Central,Adjuster_E,2023-02-12,,,Open,41169.07,0,None,0
+CLM-0166,General Liability,Europe - UK,Adjuster_E,2023-02-01,2023-02-09,8,Closed,73475.83,56366.72,None,-17109.11
+CLM-0167,Property Damage,North America - East,Adjuster_B,2024-03-26,2024-04-02,7,Closed,91785.72,91785.72,None,0.0
+CLM-0168,Commercial Property,Europe - UK,Adjuster_B,2024-01-15,2024-01-24,9,Closed,71037.94,71037.94,None,0.0
+CLM-0169,Property Damage,North America - East,Adjuster_C,2024-01-29,2024-02-12,14,Closed,122394.72,146166.92,None,23772.2
+CLM-0170,Auto Liability,Europe - UK,Adjuster_E,2024-04-23,2024-05-01,8,Closed,141894.46,141894.46,None,0.0
+CLM-0171,Auto Liability,Australia,Adjuster_C,2023-02-19,2023-02-20,1,Closed,44290.76,0,Policy Exclusion,0
+CLM-0172,Commercial Property,North America - Central,Adjuster_D,2024-01-10,,,Open,30808.98,0,None,0
+CLM-0173,Property Damage,Europe - UK,Adjuster_E,2024-04-06,,,Open,102699.0,0,None,0
+CLM-0174,Property Damage,Europe - UK,Adjuster_C,2023-12-14,2024-01-09,26,Closed,91164.52,0,Insufficient Documentation,0
+CLM-0175,Auto Liability,North America - Central,Adjuster_D,2024-06-15,,,Open,22687.59,0,None,0
+CLM-0176,Workers Compensation,Australia,Adjuster_C,2023-12-11,,,Open,46369.0,0,None,0
+CLM-0177,Property Damage,Europe - UK,Adjuster_E,2023-11-12,2023-11-25,13,Closed,41298.5,36305.6,None,-4992.9
+CLM-0178,Auto Liability,North America - East,Adjuster_E,2024-05-06,,,Open,116641.71,0,None,0
+CLM-0179,Auto Liability,North America - East,Adjuster_E,2023-04-23,2023-04-27,4,Closed,24411.83,16112.96,None,-8298.87
+CLM-0180,Workers Compensation,North America - East,Adjuster_B,2024-06-15,2024-06-19,4,Closed,79770.62,0,Fraud Suspected,0
+CLM-0181,Commercial Property,Australia,Adjuster_C,2023-09-28,2023-10-08,10,Closed,43292.95,43292.95,None,0.0
+CLM-0182,Commercial Property,North America - Central,Adjuster_B,2024-05-15,2024-05-21,6,Closed,44592.83,44592.83,None,0.0
+CLM-0183,Workers Compensation,North America - Central,Adjuster_B,2023-10-25,2023-11-18,24,Closed,53261.8,53261.8,None,0.0
+CLM-0184,Workers Compensation,North America - West,Adjuster_B,2023-10-05,,,Open,111651.86,0,None,0
+CLM-0185,Property Damage,Australia,Adjuster_B,2023-08-27,2023-08-28,1,Closed,16880.65,8474.44,None,-8406.21
+CLM-0186,Auto Liability,Europe - UK,Adjuster_D,2024-05-03,2024-05-24,21,Closed,49532.82,49532.82,None,0.0
+CLM-0187,Property Damage,Australia,Adjuster_B,2023-02-08,2023-03-08,28,Closed,140220.55,140220.55,None,0.0
+CLM-0188,Workers Compensation,North America - West,Adjuster_C,2023-02-08,2023-02-09,1,Closed,139411.32,139411.32,None,0.0
+CLM-0189,General Liability,Australia,Adjuster_D,2023-05-18,2023-06-01,14,Closed,121704.45,121704.45,None,0.0
+CLM-0190,Commercial Property,North America - West,Adjuster_A,2023-12-12,2023-12-25,13,Closed,27973.25,23772.97,None,-4200.28
+CLM-0191,General Liability,North America - Central,Adjuster_A,2024-02-15,2024-02-26,11,Closed,72663.21,76395.63,None,3732.42
+CLM-0192,Workers Compensation,North America - Central,Adjuster_C,2023-11-06,2023-11-16,10,Closed,104529.75,0,Coverage Lapsed,0
+CLM-0193,Auto Liability,Europe - UK,Adjuster_E,2023-11-15,2023-11-27,12,Closed,56396.5,56396.5,None,0.0
+CLM-0194,Workers Compensation,North America - West,Adjuster_D,2024-01-18,,,Open,120695.26,0,None,0
+CLM-0195,General Liability,North America - East,Adjuster_E,2024-04-02,,,Open,18606.9,0,None,0
+CLM-0196,Auto Liability,Australia,Adjuster_E,2023-06-03,2023-06-28,25,Closed,19203.52,19203.52,None,0.0
+CLM-0197,Property Damage,Australia,Adjuster_D,2023-02-26,2023-03-06,8,Closed,85458.86,85458.86,None,0.0
+CLM-0198,Commercial Property,North America - East,Adjuster_D,2023-09-18,,,Open,12808.37,0,None,0
+CLM-0199,Property Damage,Australia,Adjuster_A,2023-03-12,2023-03-20,8,Closed,115807.87,102090.43,None,-13717.44
+CLM-0200,Workers Compensation,North America - Central,Adjuster_D,2024-04-04,,,Open,21682.49,0,None,0
+CLM-0201,General Liability,Europe - UK,Adjuster_E,2023-05-11,2023-06-02,22,Closed,146816.62,146816.62,None,0.0
+CLM-0202,Workers Compensation,Australia,Adjuster_D,2023-08-24,2023-08-28,4,Closed,29895.11,0,Duplicate Claim,0
+CLM-0203,General Liability,North America - East,Adjuster_B,2023-07-31,2023-08-02,2,Closed,90472.16,46953.58,None,-43518.58
+CLM-0204,Workers Compensation,Europe - UK,Adjuster_B,2023-08-11,2023-08-24,13,Closed,36655.9,42712.26,None,6056.36
+CLM-0205,Commercial Property,North America - West,Adjuster_C,2023-05-27,2023-06-07,11,Closed,42722.78,42722.78,None,0.0
+CLM-0206,Auto Liability,Europe - UK,Adjuster_E,2024-05-22,2024-06-17,26,Closed,118299.08,118299.08,None,0.0
+CLM-0207,Auto Liability,North America - Central,Adjuster_D,2023-07-08,2023-07-21,13,Closed,46508.99,37870.07,None,-8638.92
+CLM-0208,General Liability,Europe - UK,Adjuster_D,2024-06-26,2024-06-29,3,Closed,50878.92,50878.92,None,0.0
+CLM-0209,Commercial Property,North America - East,Adjuster_E,2023-07-15,,,Open,91232.46,0,None,0
+CLM-0210,General Liability,Australia,Adjuster_B,2024-05-05,2024-05-09,4,Closed,33347.55,33347.55,None,0.0
+CLM-0211,Workers Compensation,North America - West,Adjuster_E,2023-07-29,2023-08-05,7,Closed,58337.94,58337.94,None,0.0
+CLM-0212,Commercial Property,North America - Central,Adjuster_E,2024-05-24,2024-06-11,18,Closed,114721.09,114721.09,None,0.0
+CLM-0213,Commercial Property,Europe - UK,Adjuster_A,2023-08-15,,,Open,140344.22,0,None,0
+CLM-0214,Workers Compensation,North America - Central,Adjuster_B,2023-07-20,2023-07-26,6,Closed,75896.62,58219.55,None,-17677.07
+CLM-0215,Workers Compensation,Europe - UK,Adjuster_D,2023-06-22,,,Open,74270.82,0,None,0
+CLM-0216,Property Damage,Australia,Adjuster_A,2023-03-18,2023-04-03,16,Closed,22348.75,0,Policy Exclusion,0
+CLM-0217,Property Damage,North America - West,Adjuster_E,2024-04-11,,,Open,137087.22,0,None,0
+CLM-0218,General Liability,Australia,Adjuster_D,2023-01-13,,,Open,146666.94,0,None,0
+CLM-0219,Workers Compensation,North America - West,Adjuster_A,2023-04-09,,,Open,79915.49,0,None,0
+CLM-0220,Workers Compensation,North America - East,Adjuster_C,2024-02-20,2024-02-28,8,Closed,46396.25,24656.85,None,-21739.4
+CLM-0221,Property Damage,North America - East,Adjuster_D,2024-01-24,2024-01-31,7,Closed,106021.08,106021.08,None,0.0
+CLM-0222,Commercial Property,Australia,Adjuster_A,2024-06-24,,,Open,72374.04,0,None,0
+CLM-0223,Property Damage,North America - Central,Adjuster_E,2023-02-03,2023-02-06,3,Closed,88881.34,69145.9,None,-19735.44
+CLM-0224,Property Damage,North America - Central,Adjuster_B,2023-09-04,,,Open,51096.02,0,None,0
+CLM-0225,Property Damage,Australia,Adjuster_C,2023-02-24,2023-02-26,2,Closed,52407.73,45720.23,None,-6687.5
+CLM-0226,Commercial Property,North America - East,Adjuster_C,2024-04-06,2024-04-14,8,Closed,65913.5,0,Fraud Suspected,0
+CLM-0227,Commercial Property,North America - West,Adjuster_A,2023-03-26,2023-03-31,5,Closed,111468.98,0,Insufficient Documentation,0
+CLM-0228,Commercial Property,Europe - UK,Adjuster_C,2023-10-04,2023-10-06,2,Closed,68428.86,68428.86,None,0.0
+CLM-0229,Property Damage,North America - East,Adjuster_C,2023-04-06,2023-05-10,34,Closed,3826.41,3826.41,None,0.0
+CLM-0230,General Liability,North America - West,Adjuster_E,2024-06-17,2024-06-20,3,Closed,46567.43,0,Duplicate Claim,0
+CLM-0231,Commercial Property,Europe - UK,Adjuster_C,2024-05-10,2024-05-23,13,Closed,108693.12,108693.12,None,0.0
+CLM-0232,Workers Compensation,North America - East,Adjuster_B,2023-11-08,,,Open,58223.71,0,None,0
+CLM-0233,Workers Compensation,Australia,Adjuster_B,2023-11-04,2023-12-08,34,Closed,72893.44,72893.44,None,0.0
+CLM-0234,Commercial Property,North America - Central,Adjuster_D,2023-09-06,2023-09-12,6,Closed,56022.3,61062.07,None,5039.77
+CLM-0235,Auto Liability,Australia,Adjuster_A,2024-04-17,2024-04-29,12,Closed,125029.71,125029.71,None,0.0
+CLM-0236,Workers Compensation,Europe - UK,Adjuster_B,2023-11-07,2023-11-11,4,Closed,118783.36,118783.36,None,0.0
+CLM-0237,Workers Compensation,Australia,Adjuster_D,2024-06-02,2024-06-16,14,Closed,105841.87,77432.83,None,-28409.04
+CLM-0238,Property Damage,North America - West,Adjuster_C,2023-06-20,2023-07-01,11,Closed,145088.05,145088.05,None,0.0
+CLM-0239,Property Damage,North America - East,Adjuster_A,2023-09-22,,,Open,87916.71,0,None,0
+CLM-0240,Workers Compensation,North America - Central,Adjuster_D,2024-04-19,2024-05-02,13,Closed,53055.17,0,Duplicate Claim,0
+CLM-0241,Property Damage,North America - East,Adjuster_B,2023-12-23,2023-12-28,5,Closed,79124.99,0,Duplicate Claim,0
+CLM-0242,Commercial Property,North America - East,Adjuster_C,2023-02-15,2023-02-28,13,Closed,97899.55,55224.95,None,-42674.6
+CLM-0243,Auto Liability,Australia,Adjuster_B,2023-06-13,2023-06-19,6,Closed,36314.62,36314.62,None,0.0
+CLM-0244,Workers Compensation,Europe - UK,Adjuster_A,2023-07-22,2023-07-30,8,Closed,106300.87,106300.87,None,0.0
+CLM-0245,Property Damage,Australia,Adjuster_A,2023-07-11,2023-07-17,6,Closed,40828.3,28816.98,None,-12011.32
+CLM-0246,General Liability,Europe - UK,Adjuster_E,2024-02-06,2024-02-16,10,Closed,93369.68,72392.82,None,-20976.86
+CLM-0247,General Liability,Australia,Adjuster_A,2023-05-18,2023-05-24,6,Closed,29090.59,20340.77,None,-8749.82
+CLM-0248,Auto Liability,Australia,Adjuster_D,2024-03-09,2024-03-12,3,Closed,84127.06,0,Coverage Lapsed,0
+CLM-0249,Workers Compensation,Australia,Adjuster_A,2024-01-03,2024-01-04,1,Closed,144646.71,144646.71,None,0.0
+CLM-0250,Workers Compensation,Europe - UK,Adjuster_D,2024-05-15,2024-05-18,3,Closed,45229.31,45229.31,None,0.0
+CLM-0251,Auto Liability,Europe - UK,Adjuster_E,2024-05-22,2024-05-31,9,Closed,41647.56,41647.56,None,0.0
+CLM-0252,General Liability,North America - East,Adjuster_D,2023-08-12,2023-08-19,7,Closed,46060.92,52506.98,None,6446.06
+CLM-0253,Property Damage,Europe - UK,Adjuster_A,2023-08-31,,,Open,95650.05,0,None,0
+CLM-0254,Auto Liability,North America - West,Adjuster_B,2023-03-02,,,Open,81737.74,0,None,0
+CLM-0255,Commercial Property,North America - Central,Adjuster_E,2023-10-01,2023-11-01,31,Closed,22067.16,0,Coverage Lapsed,0
+CLM-0256,Auto Liability,North America - West,Adjuster_B,2023-05-30,2023-06-24,25,Closed,74439.89,74439.89,None,0.0
+CLM-0257,Workers Compensation,Europe - UK,Adjuster_D,2023-03-19,2023-03-30,11,Closed,104816.14,70995.25,None,-33820.89
+CLM-0258,General Liability,North America - East,Adjuster_A,2024-04-14,,,Open,60861.95,0,None,0
+CLM-0259,Workers Compensation,North America - Central,Adjuster_C,2023-10-18,,,Open,128158.54,0,None,0
+CLM-0260,Property Damage,North America - East,Adjuster_A,2024-04-15,2024-05-03,18,Closed,67310.32,67310.32,None,0.0
+CLM-0261,Auto Liability,North America - West,Adjuster_C,2023-06-12,2023-06-26,14,Closed,39057.61,39057.61,None,0.0
+CLM-0262,Auto Liability,North America - East,Adjuster_D,2023-11-09,2023-11-21,12,Closed,106147.31,106147.31,None,0.0
+CLM-0263,Auto Liability,Australia,Adjuster_B,2024-06-15,2024-06-26,11,Closed,122932.14,0,Insufficient Documentation,0
+CLM-0264,Auto Liability,Europe - UK,Adjuster_A,2023-04-15,2023-04-17,2,Closed,22295.14,0,Policy Exclusion,0
+CLM-0265,Property Damage,Australia,Adjuster_E,2023-01-09,2023-01-19,10,Closed,108919.94,0,Duplicate Claim,0
+CLM-0266,General Liability,Europe - UK,Adjuster_B,2023-03-30,,,Open,110041.35,0,None,0
+CLM-0267,Workers Compensation,North America - Central,Adjuster_B,2023-09-11,,,Open,90947.86,0,None,0
+CLM-0268,Property Damage,North America - Central,Adjuster_B,2024-06-14,2024-06-24,10,Closed,45740.22,45740.22,None,0.0
+CLM-0269,Auto Liability,Europe - UK,Adjuster_D,2023-04-26,2023-04-30,4,Closed,80186.4,100022.63,None,19836.23
+CLM-0270,Auto Liability,Europe - UK,Adjuster_E,2024-03-06,2024-03-12,6,Closed,143259.04,0,Coverage Lapsed,0
+CLM-0271,Auto Liability,North America - East,Adjuster_A,2024-02-12,,,Open,115532.28,0,None,0
+CLM-0272,Workers Compensation,North America - East,Adjuster_E,2023-06-06,,,Open,138296.88,0,None,0
+CLM-0273,Commercial Property,Europe - UK,Adjuster_E,2023-03-09,2023-03-14,5,Closed,10570.08,10570.08,None,0.0
+CLM-0274,Workers Compensation,Australia,Adjuster_E,2023-02-26,2023-03-03,5,Closed,105821.94,105821.94,None,0.0
+CLM-0275,General Liability,Australia,Adjuster_C,2023-06-20,2023-06-26,6,Closed,110474.5,110474.5,None,0.0
+CLM-0276,Commercial Property,Europe - UK,Adjuster_C,2024-06-20,,,Open,94874.86,0,None,0
+CLM-0277,General Liability,North America - Central,Adjuster_A,2024-05-26,2024-06-09,14,Closed,39757.18,39757.18,None,0.0
+CLM-0278,Property Damage,North America - West,Adjuster_E,2023-01-03,2023-01-04,1,Closed,55868.52,60661.6,None,4793.08
+CLM-0279,Property Damage,Australia,Adjuster_D,2023-08-18,2023-08-24,6,Closed,42146.18,42146.18,None,0.0
+CLM-0280,General Liability,North America - East,Adjuster_B,2023-08-17,2023-09-17,31,Closed,12201.11,12201.11,None,0.0
+CLM-0281,Commercial Property,North America - Central,Adjuster_A,2024-04-12,,,Open,118107.07,0,None,0
+CLM-0282,Commercial Property,Australia,Adjuster_D,2023-07-20,2023-08-21,32,Closed,24283.82,25614.14,None,1330.32
+CLM-0283,Property Damage,North America - Central,Adjuster_A,2024-01-21,,,Open,147501.13,0,None,0
+CLM-0284,Property Damage,North America - West,Adjuster_C,2023-04-06,,,Open,63132.41,0,None,0
+CLM-0285,Property Damage,Australia,Adjuster_A,2024-06-01,2024-07-06,35,Closed,89600.57,89600.57,None,0.0
+CLM-0286,Auto Liability,North America - West,Adjuster_C,2023-09-25,2023-10-20,25,Closed,105707.39,65965.91,None,-39741.48
+CLM-0287,Property Damage,North America - West,Adjuster_B,2023-04-22,2023-04-25,3,Closed,48476.93,48476.93,None,0.0
+CLM-0288,Auto Liability,Europe - UK,Adjuster_C,2024-04-19,2024-04-24,5,Closed,124305.23,64107.77,None,-60197.46
+CLM-0289,Commercial Property,North America - West,Adjuster_A,2023-09-12,2023-09-18,6,Closed,40504.69,42781.72,None,2277.03
+CLM-0290,Workers Compensation,Australia,Adjuster_E,2023-09-13,2023-09-15,2,Closed,19975.08,19975.08,None,0.0
+CLM-0291,Auto Liability,North America - West,Adjuster_B,2024-02-15,2024-03-21,35,Closed,88183.92,88183.92,None,0.0
+CLM-0292,Property Damage,North America - East,Adjuster_B,2024-03-30,2024-04-12,13,Closed,20134.09,21344.7,None,1210.61
+CLM-0293,Workers Compensation,Europe - UK,Adjuster_D,2023-01-31,2023-02-07,7,Closed,136429.02,136429.02,None,0.0
+CLM-0294,Auto Liability,North America - East,Adjuster_E,2023-09-09,,,Open,72896.58,0,None,0
+CLM-0295,Workers Compensation,North America - West,Adjuster_D,2023-07-24,,,Open,119637.24,0,None,0
+CLM-0296,Commercial Property,Europe - UK,Adjuster_E,2024-05-11,2024-05-17,6,Closed,42024.48,42024.48,None,0.0
+CLM-0297,Property Damage,North America - Central,Adjuster_A,2024-04-28,2024-05-24,26,Closed,146149.02,146149.02,None,0.0
+CLM-0298,Commercial Property,Australia,Adjuster_A,2023-08-13,2023-08-23,10,Closed,28062.85,28062.85,None,0.0
+CLM-0299,Commercial Property,Australia,Adjuster_A,2023-12-27,2024-01-06,10,Closed,125831.13,110536.51,None,-15294.62
+CLM-0300,Auto Liability,Europe - UK,Adjuster_A,2023-04-03,2023-04-04,1,Closed,79914.38,79914.38,None,0.0
+CLM-0301,Auto Liability,North America - West,Adjuster_C,2023-07-01,2023-07-14,13,Closed,88818.16,107014.63,None,18196.47
+CLM-0302,Commercial Property,North America - East,Adjuster_C,2024-02-10,2024-02-20,10,Closed,22194.85,22194.85,None,0.0
+CLM-0303,Workers Compensation,North America - Central,Adjuster_B,2024-01-01,2024-02-03,33,Closed,47409.84,26059.57,None,-21350.27
+CLM-0304,General Liability,Europe - UK,Adjuster_E,2023-02-03,,,Open,34692.5,0,None,0
+CLM-0305,Workers Compensation,North America - West,Adjuster_C,2023-03-21,2023-04-16,26,Closed,96155.64,116764.91,None,20609.27
+CLM-0306,Commercial Property,Europe - UK,Adjuster_A,2023-09-29,2023-10-03,4,Closed,39985.38,0,Duplicate Claim,0
+CLM-0307,Workers Compensation,Europe - UK,Adjuster_B,2024-02-28,2024-03-07,8,Closed,17011.43,17011.43,None,0.0
+CLM-0308,Auto Liability,North America - West,Adjuster_D,2023-03-17,2023-03-30,13,Closed,40646.9,40646.9,None,0.0
+CLM-0309,Workers Compensation,North America - West,Adjuster_A,2023-04-06,2023-05-10,34,Closed,106266.69,106266.69,None,0.0
+CLM-0310,General Liability,Europe - UK,Adjuster_B,2023-02-24,2023-02-26,2,Closed,62573.42,62573.42,None,0.0
+CLM-0311,General Liability,North America - Central,Adjuster_C,2023-11-01,,,Open,83350.07,0,None,0
+CLM-0312,Property Damage,North America - Central,Adjuster_A,2024-03-13,,,Open,73088.6,0,None,0
+CLM-0313,Auto Liability,North America - West,Adjuster_C,2023-03-25,2023-04-02,8,Closed,71699.78,43260.19,None,-28439.59
+CLM-0314,Workers Compensation,North America - West,Adjuster_C,2024-01-26,2024-02-01,6,Closed,67081.58,67081.58,None,0.0
+CLM-0315,General Liability,North America - East,Adjuster_B,2023-04-10,2023-05-06,26,Closed,145664.42,145664.42,None,0.0
+CLM-0316,Workers Compensation,Australia,Adjuster_D,2024-05-01,2024-05-11,10,Closed,60431.05,31034.01,None,-29397.04
+CLM-0317,General Liability,Australia,Adjuster_E,2023-05-31,2023-06-02,2,Closed,145880.4,80119.34,None,-65761.06
+CLM-0318,Workers Compensation,North America - West,Adjuster_B,2023-09-22,,,Open,60808.54,0,None,0
+CLM-0319,Commercial Property,Australia,Adjuster_D,2023-01-13,2023-01-26,13,Closed,18652.79,18652.79,None,0.0
+CLM-0320,General Liability,North America - East,Adjuster_A,2023-04-14,2023-05-08,24,Closed,131928.25,131928.25,None,0.0
+CLM-0321,General Liability,Australia,Adjuster_D,2023-02-08,,,Open,92080.98,0,None,0
+CLM-0322,Commercial Property,North America - West,Adjuster_A,2024-05-01,2024-05-06,5,Closed,48020.5,40083.27,None,-7937.23
+CLM-0323,Auto Liability,North America - West,Adjuster_C,2024-03-29,2024-04-11,13,Closed,91536.91,91536.91,None,0.0
+CLM-0324,Workers Compensation,Europe - UK,Adjuster_E,2024-01-18,2024-02-01,14,Closed,11711.31,7698.08,None,-4013.23
+CLM-0325,General Liability,Australia,Adjuster_A,2023-06-27,2023-07-18,21,Closed,6894.51,6894.51,None,0.0
+CLM-0326,Auto Liability,North America - Central,Adjuster_C,2024-04-20,2024-04-29,9,Closed,102813.81,102813.81,None,0.0
+CLM-0327,Workers Compensation,North America - West,Adjuster_D,2023-12-25,2024-01-14,20,Closed,112846.25,68969.04,None,-43877.21
+CLM-0328,Auto Liability,Australia,Adjuster_B,2023-08-15,2023-08-26,11,Closed,98434.93,98434.93,None,0.0
+CLM-0329,Property Damage,Europe - UK,Adjuster_B,2023-06-27,,,Open,121152.66,0,None,0
+CLM-0330,Commercial Property,Europe - UK,Adjuster_D,2023-12-24,2024-01-01,8,Closed,102225.03,0,Fraud Suspected,0
+CLM-0331,Commercial Property,Australia,Adjuster_E,2023-10-17,2023-10-22,5,Closed,148277.42,148277.42,None,0.0
+CLM-0332,Commercial Property,North America - Central,Adjuster_B,2023-06-03,,,Open,61806.57,0,None,0
+CLM-0333,Auto Liability,North America - East,Adjuster_D,2023-10-30,2023-11-04,5,Closed,88287.51,107110.67,None,18823.16
+CLM-0334,Auto Liability,Australia,Adjuster_D,2024-01-03,,,Open,28808.11,0,None,0
+CLM-0335,Auto Liability,North America - Central,Adjuster_E,2023-07-07,2023-07-18,11,Closed,54581.94,33827.88,None,-20754.06
+CLM-0336,Commercial Property,North America - Central,Adjuster_C,2023-10-29,,,Open,87886.34,0,None,0
+CLM-0337,Workers Compensation,North America - West,Adjuster_E,2023-05-03,2023-05-17,14,Closed,10001.17,5536.37,None,-4464.8
+CLM-0338,Workers Compensation,Australia,Adjuster_D,2023-05-27,2023-06-16,20,Closed,51229.16,0,Duplicate Claim,0
+CLM-0339,Commercial Property,North America - West,Adjuster_B,2023-06-12,2023-06-20,8,Closed,95756.16,95756.16,None,0.0
+CLM-0340,Workers Compensation,North America - East,Adjuster_A,2023-07-24,2023-08-19,26,Closed,114013.47,0,Insufficient Documentation,0
+CLM-0341,Auto Liability,North America - West,Adjuster_C,2023-11-16,,,Open,47305.03,0,None,0
+CLM-0342,Property Damage,North America - Central,Adjuster_C,2024-04-11,2024-04-23,12,Closed,66182.45,36544.48,None,-29637.97
+CLM-0343,Workers Compensation,North America - Central,Adjuster_B,2023-06-18,2023-07-01,13,Closed,109620.99,109620.99,None,0.0
+CLM-0344,General Liability,Australia,Adjuster_B,2023-05-07,2023-06-11,35,Closed,131728.53,131728.53,None,0.0
+CLM-0345,Property Damage,Australia,Adjuster_A,2023-04-21,2023-05-02,11,Closed,63682.78,63682.78,None,0.0
+CLM-0346,Workers Compensation,North America - West,Adjuster_B,2023-01-10,,,Open,41956.62,0,None,0
+CLM-0347,Auto Liability,Europe - UK,Adjuster_A,2024-06-07,2024-06-19,12,Closed,118144.49,118144.49,None,0.0
+CLM-0348,Commercial Property,Australia,Adjuster_B,2024-01-02,2024-01-14,12,Closed,83124.54,98722.09,None,15597.55
+CLM-0349,Auto Liability,North America - East,Adjuster_A,2023-04-02,2023-04-04,2,Closed,142518.01,75430.34,None,-67087.67
+CLM-0350,Commercial Property,North America - West,Adjuster_D,2023-10-31,2023-11-05,5,Closed,131372.79,84142.13,None,-47230.66
+CLM-0351,Workers Compensation,North America - East,Adjuster_A,2023-02-16,2023-02-17,1,Closed,50641.8,44184.2,None,-6457.6
+CLM-0352,Property Damage,North America - Central,Adjuster_C,2023-07-07,2023-07-09,2,Closed,42231.3,42231.3,None,0.0
+CLM-0353,Workers Compensation,North America - West,Adjuster_A,2023-05-16,2023-06-01,16,Closed,17349.54,19891.85,None,2542.31
+CLM-0354,Workers Compensation,North America - West,Adjuster_E,2024-01-24,2024-02-06,13,Closed,73495.79,73495.79,None,0.0
+CLM-0355,Workers Compensation,North America - East,Adjuster_A,2023-09-25,,,Open,115594.25,0,None,0
+CLM-0356,General Liability,North America - West,Adjuster_C,2024-06-15,2024-06-24,9,Closed,73325.59,0,Fraud Suspected,0
+CLM-0357,General Liability,North America - East,Adjuster_A,2023-06-10,2023-07-10,30,Closed,13080.06,13080.06,None,0.0
+CLM-0358,Commercial Property,North America - East,Adjuster_E,2023-08-17,2023-08-26,9,Closed,13666.93,13666.93,None,0.0
+CLM-0359,Property Damage,Europe - UK,Adjuster_D,2023-11-20,2023-11-22,2,Closed,17191.21,17191.21,None,0.0
+CLM-0360,Property Damage,North America - East,Adjuster_E,2023-11-08,2023-11-17,9,Closed,142652.56,0,Policy Exclusion,0
+CLM-0361,Workers Compensation,North America - Central,Adjuster_E,2024-04-29,2024-05-11,12,Closed,16420.68,8224.41,None,-8196.27
+CLM-0362,Commercial Property,Australia,Adjuster_E,2024-01-18,2024-01-30,12,Closed,74878.48,59122.49,None,-15755.99
+CLM-0363,Commercial Property,Australia,Adjuster_B,2023-07-12,2023-07-14,2,Closed,108084.61,108084.61,None,0.0
+CLM-0364,General Liability,North America - East,Adjuster_D,2024-04-13,2024-05-16,33,Closed,144650.5,144650.5,None,0.0
+CLM-0365,General Liability,Europe - UK,Adjuster_E,2024-05-09,2024-05-18,9,Closed,110113.21,110113.21,None,0.0
+CLM-0366,General Liability,Australia,Adjuster_C,2024-05-31,2024-06-28,28,Closed,42492.19,52864.46,None,10372.27
+CLM-0367,Auto Liability,North America - West,Adjuster_D,2024-06-08,,,Open,95622.33,0,None,0
+CLM-0368,General Liability,North America - Central,Adjuster_C,2023-05-16,2023-06-20,35,Closed,76576.23,0,Coverage Lapsed,0
+CLM-0369,General Liability,Europe - UK,Adjuster_E,2024-03-03,2024-03-14,11,Closed,121629.11,0,Policy Exclusion,0
+CLM-0370,Property Damage,North America - East,Adjuster_B,2023-10-01,2023-10-21,20,Closed,23671.4,23671.4,None,0.0
+CLM-0371,Auto Liability,Australia,Adjuster_A,2024-01-03,,,Open,129996.54,0,None,0
+CLM-0372,Auto Liability,Australia,Adjuster_C,2023-02-18,2023-02-25,7,Closed,144943.32,144943.32,None,0.0
+CLM-0373,Auto Liability,Australia,Adjuster_D,2023-08-19,,,Open,82899.04,0,None,0
+CLM-0374,Auto Liability,North America - Central,Adjuster_D,2023-07-01,2023-07-12,11,Closed,110791.76,0,Coverage Lapsed,0
+CLM-0375,General Liability,North America - Central,Adjuster_B,2023-06-14,2023-06-24,10,Closed,107034.02,0,Coverage Lapsed,0
+CLM-0376,General Liability,North America - East,Adjuster_E,2023-11-05,2023-11-13,8,Closed,118036.65,118036.65,None,0.0
+CLM-0377,Auto Liability,Australia,Adjuster_A,2024-06-01,2024-06-04,3,Closed,15607.94,15607.94,None,0.0
+CLM-0378,Commercial Property,North America - Central,Adjuster_C,2023-10-28,,,Open,123905.88,0,None,0
+CLM-0379,Commercial Property,Europe - UK,Adjuster_B,2023-09-07,2023-09-08,1,Closed,59109.64,59109.64,None,0.0
+CLM-0380,General Liability,North America - Central,Adjuster_E,2024-06-04,2024-06-12,8,Closed,49406.29,0,Fraud Suspected,0
+CLM-0381,General Liability,North America - East,Adjuster_A,2023-08-04,2023-09-08,35,Closed,125678.43,125678.43,None,0.0
+CLM-0382,Workers Compensation,North America - East,Adjuster_B,2023-01-25,2023-02-02,8,Closed,10031.67,7199.26,None,-2832.41
+CLM-0383,Auto Liability,North America - Central,Adjuster_D,2024-02-02,2024-02-10,8,Closed,4499.86,3188.54,None,-1311.32
+CLM-0384,General Liability,North America - East,Adjuster_E,2023-02-16,,,Open,17708.06,0,None,0
+CLM-0385,Property Damage,North America - Central,Adjuster_D,2024-01-26,,,Open,34540.13,0,None,0
+CLM-0386,General Liability,North America - Central,Adjuster_B,2023-11-02,2023-11-13,11,Closed,83921.58,0,Insufficient Documentation,0
+CLM-0387,General Liability,Australia,Adjuster_D,2023-03-29,2023-04-03,5,Closed,33337.07,0,Policy Exclusion,0
+CLM-0388,Auto Liability,Australia,Adjuster_C,2023-07-18,,,Open,128133.17,0,None,0
+CLM-0389,General Liability,Europe - UK,Adjuster_E,2023-03-16,2023-03-21,5,Closed,109387.21,109387.21,None,0.0
+CLM-0390,Auto Liability,North America - West,Adjuster_A,2023-10-19,2023-11-05,17,Closed,73907.46,73907.46,None,0.0
+CLM-0391,General Liability,North America - West,Adjuster_E,2024-01-09,2024-02-03,25,Closed,2715.12,2715.12,None,0.0
+CLM-0392,Workers Compensation,North America - Central,Adjuster_C,2023-05-18,2023-06-12,25,Closed,67912.98,0,Fraud Suspected,0
+CLM-0393,Property Damage,North America - Central,Adjuster_B,2023-07-21,2023-07-26,5,Closed,134031.57,100032.36,None,-33999.21
+CLM-0394,General Liability,Europe - UK,Adjuster_E,2023-08-06,,,Open,71871.38,0,None,0
+CLM-0395,Auto Liability,Australia,Adjuster_C,2023-05-18,2023-05-26,8,Closed,55852.1,55852.1,None,0.0
+CLM-0396,General Liability,North America - West,Adjuster_E,2023-05-24,,,Open,99593.17,0,None,0
+CLM-0397,Workers Compensation,North America - Central,Adjuster_A,2023-08-13,2023-08-26,13,Closed,56676.41,56676.41,None,0.0
+CLM-0398,Commercial Property,Europe - UK,Adjuster_D,2024-04-10,2024-04-26,16,Closed,17277.3,20330.43,None,3053.13
+CLM-0399,Commercial Property,Australia,Adjuster_E,2023-06-28,,,Open,98693.81,0,None,0
+CLM-0400,Workers Compensation,North America - West,Adjuster_E,2024-02-20,2024-02-26,6,Closed,133301.45,133301.45,None,0.0
+CLM-0401,Workers Compensation,North America - West,Adjuster_B,2023-03-20,2023-03-29,9,Closed,29662.04,29662.04,None,0.0
+CLM-0402,Property Damage,North America - West,Adjuster_D,2023-12-05,2023-12-17,12,Closed,72895.13,72895.13,None,0.0
+CLM-0403,Workers Compensation,North America - East,Adjuster_B,2023-02-14,2023-02-17,3,Closed,95171.98,95171.98,None,0.0
+CLM-0404,Property Damage,North America - West,Adjuster_C,2023-07-04,,,Open,96368.16,0,None,0
+CLM-0405,Commercial Property,North America - East,Adjuster_B,2024-04-04,2024-05-04,30,Closed,34465.84,0,Fraud Suspected,0
+CLM-0406,Auto Liability,Australia,Adjuster_E,2023-09-28,,,Open,89408.21,0,None,0
+CLM-0407,Workers Compensation,North America - West,Adjuster_A,2023-01-17,,,Open,103286.44,0,None,0
+CLM-0408,Auto Liability,Europe - UK,Adjuster_E,2023-02-09,2023-02-22,13,Closed,15792.11,13451.31,None,-2340.8
+CLM-0409,Property Damage,Europe - UK,Adjuster_E,2024-03-06,2024-03-12,6,Closed,35963.97,29056.25,None,-6907.72
+CLM-0410,General Liability,Australia,Adjuster_A,2024-03-11,2024-03-14,3,Closed,136692.63,136692.63,None,0.0
+CLM-0411,General Liability,Europe - UK,Adjuster_C,2023-07-13,2023-07-14,1,Closed,78924.75,78924.75,None,0.0
+CLM-0412,Commercial Property,Europe - UK,Adjuster_C,2023-04-20,2023-04-23,3,Closed,40672.83,40672.83,None,0.0
+CLM-0413,General Liability,North America - Central,Adjuster_D,2023-07-28,2023-08-29,32,Closed,28450.5,28450.5,None,0.0
+CLM-0414,Commercial Property,Australia,Adjuster_C,2024-02-12,2024-03-02,19,Closed,112676.5,112676.5,None,0.0
+CLM-0415,Auto Liability,North America - East,Adjuster_B,2024-06-04,,,Open,105164.5,0,None,0
+CLM-0416,Property Damage,North America - East,Adjuster_B,2024-04-27,2024-05-07,10,Closed,34822.0,0,Duplicate Claim,0
+CLM-0417,Workers Compensation,Australia,Adjuster_E,2023-10-21,2023-11-02,12,Closed,96763.11,96763.11,None,0.0
+CLM-0418,General Liability,North America - Central,Adjuster_B,2023-02-04,2023-02-17,13,Closed,93048.12,59578.58,None,-33469.54
+CLM-0419,Auto Liability,North America - East,Adjuster_C,2024-02-14,2024-02-20,6,Closed,78625.92,0,Coverage Lapsed,0
+CLM-0420,General Liability,Australia,Adjuster_C,2023-12-22,2024-01-05,14,Closed,69304.33,0,Policy Exclusion,0
+CLM-0421,Workers Compensation,Australia,Adjuster_A,2023-03-16,2023-03-25,9,Closed,120835.45,148050.33,None,27214.88
+CLM-0422,General Liability,North America - Central,Adjuster_D,2024-01-22,2024-02-21,30,Closed,144263.33,144263.33,None,0.0
+CLM-0423,General Liability,North America - East,Adjuster_D,2023-04-30,2023-05-05,5,Closed,102183.12,102183.12,None,0.0
+CLM-0424,Commercial Property,Australia,Adjuster_E,2023-01-10,2023-01-22,12,Closed,61041.73,38662.44,None,-22379.29
+CLM-0425,Auto Liability,Europe - UK,Adjuster_C,2023-12-29,2024-01-02,4,Closed,75851.9,75851.9,None,0.0
+CLM-0426,Commercial Property,North America - West,Adjuster_B,2023-07-27,2023-08-18,22,Closed,25087.34,25087.34,None,0.0
+CLM-0427,Workers Compensation,Australia,Adjuster_A,2023-02-13,2023-02-27,14,Closed,74866.38,92040.72,None,17174.34
+CLM-0428,Workers Compensation,North America - West,Adjuster_E,2023-10-14,2023-11-05,22,Closed,10013.93,6875.01,None,-3138.92
+CLM-0429,General Liability,North America - Central,Adjuster_D,2023-06-28,2023-07-06,8,Closed,48716.39,48716.39,None,0.0
+CLM-0430,Workers Compensation,Australia,Adjuster_A,2023-11-30,2024-01-03,34,Closed,83187.38,83187.38,None,0.0
+CLM-0431,General Liability,North America - Central,Adjuster_C,2023-07-08,2023-07-16,8,Closed,56031.54,56031.54,None,0.0
+CLM-0432,General Liability,North America - West,Adjuster_E,2023-08-23,2023-09-06,14,Closed,84190.33,48532.75,None,-35657.58
+CLM-0433,Auto Liability,Europe - UK,Adjuster_A,2023-06-30,,,Open,81029.42,0,None,0
+CLM-0434,Workers Compensation,North America - Central,Adjuster_C,2023-02-18,2023-02-25,7,Closed,33889.16,33889.16,None,0.0
+CLM-0435,Property Damage,Europe - UK,Adjuster_C,2023-09-24,2023-09-30,6,Closed,52932.76,52932.76,None,0.0
+CLM-0436,General Liability,North America - West,Adjuster_E,2023-06-28,,,Open,74149.07,0,None,0
+CLM-0437,Workers Compensation,Australia,Adjuster_C,2024-04-19,2024-05-08,19,Closed,64428.84,64428.84,None,0.0
+CLM-0438,Property Damage,North America - East,Adjuster_B,2023-12-18,2023-12-22,4,Closed,107144.16,107144.16,None,0.0
+CLM-0439,Workers Compensation,North America - Central,Adjuster_E,2024-06-17,2024-06-25,8,Closed,20505.91,20505.91,None,0.0
+CLM-0440,Property Damage,North America - West,Adjuster_B,2024-02-11,2024-02-13,2,Closed,83168.19,83168.19,None,0.0
+CLM-0441,Property Damage,North America - East,Adjuster_C,2023-06-09,2023-07-14,35,Closed,47786.86,47786.86,None,0.0
+CLM-0442,Auto Liability,North America - West,Adjuster_E,2023-06-24,2023-06-25,1,Closed,129907.69,129907.69,None,0.0
+CLM-0443,Commercial Property,Australia,Adjuster_D,2023-05-19,,,Open,69568.43,0,None,0
+CLM-0444,Workers Compensation,Australia,Adjuster_E,2023-11-14,2023-11-20,6,Closed,67395.33,67395.33,None,0.0
+CLM-0445,Commercial Property,North America - East,Adjuster_A,2024-06-19,2024-07-03,14,Closed,81194.64,56174.78,None,-25019.86
+CLM-0446,Commercial Property,North America - East,Adjuster_D,2023-10-27,,,Open,57299.29,0,None,0
+CLM-0447,General Liability,Europe - UK,Adjuster_D,2023-09-13,2023-09-16,3,Closed,34647.68,34647.68,None,0.0
+CLM-0448,General Liability,Australia,Adjuster_C,2023-10-19,2023-11-20,32,Closed,29824.09,0,Insufficient Documentation,0
+CLM-0449,Workers Compensation,Australia,Adjuster_D,2023-10-06,2023-10-18,12,Closed,4870.52,4870.52,None,0.0
+CLM-0450,Auto Liability,North America - East,Adjuster_C,2023-10-03,2023-10-06,3,Closed,15349.15,15349.15,None,0.0
+CLM-0451,Workers Compensation,North America - Central,Adjuster_D,2024-01-16,2024-01-24,8,Closed,10293.67,5433.41,None,-4860.26
+CLM-0452,Auto Liability,North America - Central,Adjuster_D,2023-01-13,2023-01-15,2,Closed,38580.0,42045.87,None,3465.87
+CLM-0453,Property Damage,Australia,Adjuster_B,2024-04-29,2024-05-23,24,Closed,95116.31,95116.31,None,0.0
+CLM-0454,General Liability,North America - East,Adjuster_C,2024-05-07,2024-05-18,11,Closed,129821.33,0,Duplicate Claim,0
+CLM-0455,Commercial Property,North America - East,Adjuster_B,2023-10-10,2023-10-20,10,Closed,3321.62,3321.62,None,0.0
+CLM-0456,Workers Compensation,Australia,Adjuster_B,2024-01-16,2024-01-29,13,Closed,15527.43,15527.43,None,0.0
+CLM-0457,Property Damage,North America - East,Adjuster_C,2023-06-07,2023-07-09,32,Closed,74200.75,74200.75,None,0.0
+CLM-0458,Commercial Property,Europe - UK,Adjuster_B,2023-01-22,2023-02-03,12,Closed,39103.04,39103.04,None,0.0
+CLM-0459,General Liability,North America - Central,Adjuster_E,2024-05-16,2024-05-20,4,Closed,49904.77,49904.77,None,0.0
+CLM-0460,General Liability,Australia,Adjuster_B,2023-03-12,2023-03-21,9,Closed,82157.68,82157.68,None,0.0
+CLM-0461,General Liability,Europe - UK,Adjuster_B,2023-01-20,2023-02-15,26,Closed,49462.73,49462.73,None,0.0
+CLM-0462,Workers Compensation,North America - West,Adjuster_E,2024-05-24,2024-06-06,13,Closed,49744.81,0,Fraud Suspected,0
+CLM-0463,Property Damage,North America - East,Adjuster_B,2023-07-02,2023-07-16,14,Closed,30359.26,30359.26,None,0.0
+CLM-0464,Workers Compensation,Europe - UK,Adjuster_E,2023-09-20,2023-09-21,1,Closed,3936.74,4649.88,None,713.14
+CLM-0465,Property Damage,Europe - UK,Adjuster_A,2024-01-05,2024-02-02,28,Closed,123899.16,0,Insufficient Documentation,0
+CLM-0466,Commercial Property,North America - East,Adjuster_B,2024-06-15,,,Open,59029.0,0,None,0
+CLM-0467,Auto Liability,Australia,Adjuster_B,2024-03-01,,,Open,54978.58,0,None,0
+CLM-0468,Workers Compensation,North America - East,Adjuster_B,2023-07-04,2023-07-13,9,Closed,81017.27,81017.27,None,0.0
+CLM-0469,Commercial Property,Australia,Adjuster_C,2024-01-16,2024-01-23,7,Closed,92045.18,92045.18,None,0.0
+CLM-0470,General Liability,North America - Central,Adjuster_C,2024-04-08,2024-04-16,8,Closed,147477.56,147477.56,None,0.0
+CLM-0471,Commercial Property,North America - East,Adjuster_C,2023-08-16,2023-08-20,4,Closed,138028.59,138028.59,None,0.0
+CLM-0472,General Liability,North America - West,Adjuster_A,2023-02-08,2023-02-16,8,Closed,56328.27,56328.27,None,0.0
+CLM-0473,Commercial Property,North America - East,Adjuster_E,2024-02-14,2024-02-24,10,Closed,119349.82,119349.82,None,0.0
+CLM-0474,General Liability,North America - East,Adjuster_E,2023-11-04,2023-11-05,1,Closed,138436.98,138436.98,None,0.0
+CLM-0475,Workers Compensation,Europe - UK,Adjuster_A,2023-08-21,2023-09-25,35,Closed,95815.29,0,Fraud Suspected,0
+CLM-0476,Property Damage,North America - Central,Adjuster_E,2023-06-03,2023-06-09,6,Closed,9476.93,6190.56,None,-3286.37
+CLM-0477,General Liability,Australia,Adjuster_E,2023-04-03,2023-04-07,4,Closed,23905.84,23905.84,None,0.0
+CLM-0478,Property Damage,Australia,Adjuster_D,2023-09-26,2023-09-28,2,Closed,114780.87,114780.87,None,0.0
+CLM-0479,Workers Compensation,Australia,Adjuster_B,2024-06-20,2024-06-24,4,Closed,49864.92,53251.69,None,3386.77
+CLM-0480,Workers Compensation,North America - Central,Adjuster_C,2023-07-15,2023-07-21,6,Closed,115912.83,115912.83,None,0.0
+CLM-0481,Workers Compensation,Australia,Adjuster_B,2024-03-27,2024-03-28,1,Closed,25086.7,13382.94,None,-11703.76
+CLM-0482,Auto Liability,Australia,Adjuster_B,2023-10-22,2023-10-23,1,Closed,47157.47,47157.47,None,0.0
+CLM-0483,General Liability,North America - West,Adjuster_B,2024-06-19,,,Open,110028.69,0,None,0
+CLM-0484,Property Damage,Europe - UK,Adjuster_E,2024-06-23,2024-06-24,1,Closed,31703.02,19205.68,None,-12497.34
+CLM-0485,Property Damage,North America - East,Adjuster_D,2023-10-05,2023-10-31,26,Closed,45289.35,29471.78,None,-15817.57
+CLM-0486,General Liability,North America - East,Adjuster_C,2024-05-11,2024-05-25,14,Closed,31433.53,36530.08,None,5096.55
+CLM-0487,Property Damage,North America - West,Adjuster_E,2023-11-09,2023-11-15,6,Closed,4719.09,3013.6,None,-1705.49
+CLM-0488,General Liability,North America - Central,Adjuster_A,2023-09-21,2023-10-06,15,Closed,35386.24,35386.24,None,0.0
+CLM-0489,Auto Liability,North America - East,Adjuster_D,2024-06-17,2024-07-21,34,Closed,63765.33,63765.33,None,0.0
+CLM-0490,Commercial Property,Australia,Adjuster_C,2024-04-04,2024-04-13,9,Closed,87992.54,0,Fraud Suspected,0
+CLM-0491,Auto Liability,Europe - UK,Adjuster_B,2023-06-11,2023-06-17,6,Closed,29252.01,0,Coverage Lapsed,0
+CLM-0492,Workers Compensation,Europe - UK,Adjuster_C,2024-03-29,2024-05-03,35,Closed,24489.64,0,Insufficient Documentation,0
+CLM-0493,General Liability,Australia,Adjuster_C,2023-08-25,2023-09-04,10,Closed,55170.68,37840.18,None,-17330.5
+CLM-0494,General Liability,Europe - UK,Adjuster_C,2023-07-08,2023-07-22,14,Closed,26240.38,26240.38,None,0.0
+CLM-0495,Property Damage,North America - Central,Adjuster_D,2023-08-16,2023-09-06,21,Closed,28207.57,32096.18,None,3888.61
+CLM-0496,Commercial Property,Europe - UK,Adjuster_B,2024-03-13,2024-03-20,7,Closed,108589.74,108589.74,None,0.0
+CLM-0497,General Liability,Australia,Adjuster_E,2024-06-21,2024-07-02,11,Closed,69621.26,58644.37,None,-10976.89
+CLM-0498,General Liability,Europe - UK,Adjuster_A,2024-02-01,2024-03-07,35,Closed,45094.55,45094.55,None,0.0
+CLM-0499,Commercial Property,Europe - UK,Adjuster_B,2024-03-08,,,Open,135744.0,0,None,0
+CLM-0500,Workers Compensation,North America - East,Adjuster_E,2023-04-26,,,Open,22025.39,0,None,0
+CLM-0501,Workers Compensation,North America - East,Adjuster_B,2024-04-09,2024-04-30,21,Closed,39012.18,33308.34,None,-5703.84
+CLM-0502,Property Damage,North America - East,Adjuster_A,2024-04-05,2024-04-16,11,Closed,109577.33,0,Fraud Suspected,0
+CLM-0503,Workers Compensation,North America - East,Adjuster_B,2023-12-10,2023-12-20,10,Closed,28472.28,18895.25,None,-9577.03
+CLM-0504,Workers Compensation,North America - Central,Adjuster_B,2023-05-01,2023-05-04,3,Closed,3806.75,3806.75,None,0.0
+CLM-0505,Property Damage,Australia,Adjuster_D,2023-09-01,2023-09-05,4,Closed,62702.4,62702.4,None,0.0
+CLM-0506,Auto Liability,Australia,Adjuster_C,2023-08-01,2023-08-02,1,Closed,7434.72,5651.34,None,-1783.38
+CLM-0507,Commercial Property,North America - Central,Adjuster_A,2023-02-20,2023-03-20,28,Closed,101469.39,101469.39,None,0.0
+CLM-0508,General Liability,Australia,Adjuster_E,2023-07-01,2023-07-09,8,Closed,15782.69,15782.69,None,0.0
+CLM-0509,Workers Compensation,North America - East,Adjuster_D,2023-03-08,2023-03-13,5,Closed,50722.86,50722.86,None,0.0
+CLM-0510,Auto Liability,Australia,Adjuster_A,2023-04-22,2023-05-02,10,Closed,73582.12,63590.97,None,-9991.15
+CLM-0511,Commercial Property,Europe - UK,Adjuster_E,2023-11-21,,,Open,54370.29,0,None,0
+CLM-0512,General Liability,Europe - UK,Adjuster_E,2024-05-24,2024-06-13,20,Closed,106870.89,0,Insufficient Documentation,0
+CLM-0513,Auto Liability,Australia,Adjuster_D,2024-02-28,2024-02-29,1,Closed,3672.0,3672.0,None,0.0
+CLM-0514,Property Damage,North America - Central,Adjuster_C,2024-06-02,2024-06-27,25,Closed,103503.7,103503.7,None,0.0
+CLM-0515,General Liability,North America - East,Adjuster_B,2023-07-18,2023-08-12,25,Closed,137592.13,103442.36,None,-34149.77
+CLM-0516,Workers Compensation,Australia,Adjuster_C,2024-04-18,2024-05-16,28,Closed,125595.65,125595.65,None,0.0
+CLM-0517,Commercial Property,Australia,Adjuster_E,2023-01-20,2023-01-24,4,Closed,11799.53,11799.53,None,0.0
+CLM-0518,Commercial Property,Europe - UK,Adjuster_E,2023-06-19,,,Open,19293.01,0,None,0
+CLM-0519,Commercial Property,North America - East,Adjuster_C,2024-02-28,2024-03-29,30,Closed,68882.14,75303.88,None,6421.74
+CLM-0520,Property Damage,North America - Central,Adjuster_A,2023-07-26,2023-07-28,2,Closed,135933.46,135933.46,None,0.0
+CLM-0521,Workers Compensation,Australia,Adjuster_C,2023-12-02,,,Open,102154.16,0,None,0
+CLM-0522,Property Damage,Europe - UK,Adjuster_D,2024-06-18,2024-06-20,2,Closed,103683.74,0,Duplicate Claim,0
+CLM-0523,Property Damage,North America - East,Adjuster_E,2023-11-16,2023-12-19,33,Closed,49490.29,49490.29,None,0.0
+CLM-0524,Commercial Property,Europe - UK,Adjuster_A,2023-10-07,2023-10-10,3,Closed,143828.11,0,Fraud Suspected,0
+CLM-0525,Commercial Property,Australia,Adjuster_C,2023-10-05,2023-10-08,3,Closed,12543.94,12543.94,None,0.0
+CLM-0526,Workers Compensation,North America - East,Adjuster_B,2023-01-30,2023-02-07,8,Closed,14745.7,14745.7,None,0.0
+CLM-0527,General Liability,Europe - UK,Adjuster_E,2023-12-31,,,Open,13624.75,0,None,0
+CLM-0528,General Liability,North America - West,Adjuster_A,2024-04-24,2024-04-26,2,Closed,71640.79,77282.1,None,5641.31
+CLM-0529,Commercial Property,North America - Central,Adjuster_D,2023-07-07,2023-08-01,25,Closed,69085.89,69085.89,None,0.0
+CLM-0530,Commercial Property,Europe - UK,Adjuster_D,2023-06-24,2023-06-29,5,Closed,77176.55,77176.55,None,0.0
+CLM-0531,Property Damage,North America - Central,Adjuster_E,2023-03-14,2023-03-27,13,Closed,89399.32,89399.32,None,0.0
+CLM-0532,Auto Liability,Europe - UK,Adjuster_D,2023-03-09,,,Open,65809.98,0,None,0
+CLM-0533,Commercial Property,Australia,Adjuster_B,2023-06-27,,,Open,125838.73,0,None,0
+CLM-0534,General Liability,Europe - UK,Adjuster_C,2023-04-10,2023-04-24,14,Closed,12301.93,12301.93,None,0.0
+CLM-0535,Workers Compensation,North America - Central,Adjuster_D,2023-03-04,,,Open,135681.89,0,None,0
+CLM-0536,Property Damage,North America - West,Adjuster_B,2024-04-08,,,Open,68179.65,0,None,0
+CLM-0537,Commercial Property,North America - Central,Adjuster_E,2023-11-08,,,Open,3201.65,0,None,0
+CLM-0538,Auto Liability,North America - Central,Adjuster_A,2024-01-14,,,Open,123471.49,0,None,0
+CLM-0539,Commercial Property,North America - East,Adjuster_B,2024-03-18,2024-03-30,12,Closed,107342.5,107342.5,None,0.0
+CLM-0540,Auto Liability,North America - West,Adjuster_D,2023-05-23,2023-05-27,4,Closed,126314.48,126314.48,None,0.0
+CLM-0541,Auto Liability,North America - West,Adjuster_A,2023-03-15,2023-03-26,11,Closed,99373.15,0,Duplicate Claim,0
+CLM-0542,Workers Compensation,Australia,Adjuster_D,2023-07-04,2023-07-12,8,Closed,58937.78,58937.78,None,0.0
+CLM-0543,Property Damage,Australia,Adjuster_D,2023-08-31,,,Open,87300.15,0,None,0
+CLM-0544,Property Damage,Australia,Adjuster_D,2024-01-13,2024-01-15,2,Closed,23028.95,20348.28,None,-2680.67
+CLM-0545,Commercial Property,Europe - UK,Adjuster_E,2023-03-22,2023-03-31,9,Closed,95338.1,72533.2,None,-22804.9
+CLM-0546,General Liability,Australia,Adjuster_C,2023-02-24,2023-03-28,32,Closed,69197.15,80600.36,None,11403.21
+CLM-0547,Commercial Property,North America - Central,Adjuster_C,2023-06-21,,,Open,40545.58,0,None,0
+CLM-0548,General Liability,North America - West,Adjuster_E,2023-02-22,,,Open,6040.12,0,None,0
+CLM-0549,Auto Liability,Australia,Adjuster_A,2023-10-12,2023-10-17,5,Closed,128963.04,0,Policy Exclusion,0
+CLM-0550,General Liability,North America - West,Adjuster_D,2024-01-14,2024-01-27,13,Closed,73767.94,61683.69,None,-12084.25
+CLM-0551,Property Damage,North America - West,Adjuster_E,2023-06-07,2023-07-07,30,Closed,116014.43,116014.43,None,0.0
+CLM-0552,Auto Liability,North America - West,Adjuster_E,2023-12-20,2023-12-21,1,Closed,9773.43,9773.43,None,0.0
+CLM-0553,Workers Compensation,Australia,Adjuster_B,2024-01-24,2024-02-04,11,Closed,80505.44,80505.44,None,0.0
+CLM-0554,Workers Compensation,Europe - UK,Adjuster_C,2024-06-26,,,Open,96338.77,0,None,0
+CLM-0555,Commercial Property,North America - Central,Adjuster_C,2023-10-01,,,Open,59890.76,0,None,0
+CLM-0556,General Liability,North America - West,Adjuster_E,2023-12-12,2023-12-23,11,Closed,101574.68,0,Insufficient Documentation,0
+CLM-0557,Workers Compensation,North America - Central,Adjuster_B,2023-10-18,,,Open,15607.31,0,None,0
+CLM-0558,Auto Liability,Australia,Adjuster_A,2023-05-03,,,Open,120873.61,0,None,0
+CLM-0559,Property Damage,North America - West,Adjuster_C,2023-10-29,2023-11-06,8,Closed,115865.15,88098.75,None,-27766.4
+CLM-0560,Commercial Property,North America - West,Adjuster_A,2023-10-11,2023-10-24,13,Closed,149401.87,149401.87,None,0.0
+CLM-0561,Auto Liability,Europe - UK,Adjuster_A,2024-05-18,2024-05-22,4,Closed,18047.71,18047.71,None,0.0
+CLM-0562,General Liability,North America - East,Adjuster_D,2023-09-23,,,Open,109676.68,0,None,0
+CLM-0563,Workers Compensation,North America - West,Adjuster_A,2023-02-08,2023-02-19,11,Closed,135883.4,135883.4,None,0.0
+CLM-0564,Workers Compensation,Europe - UK,Adjuster_D,2024-02-18,2024-03-03,14,Closed,58894.73,0,Fraud Suspected,0
+CLM-0565,Commercial Property,North America - Central,Adjuster_C,2024-02-15,2024-03-21,35,Closed,56072.59,35472.89,None,-20599.7
+CLM-0566,Commercial Property,North America - West,Adjuster_B,2023-02-10,2023-02-17,7,Closed,134676.18,134676.18,None,0.0
+CLM-0567,Property Damage,Europe - UK,Adjuster_B,2023-05-24,,,Open,37295.8,0,None,0
+CLM-0568,General Liability,North America - Central,Adjuster_D,2024-04-05,2024-04-06,1,Closed,118591.22,0,Fraud Suspected,0
+CLM-0569,Workers Compensation,Australia,Adjuster_B,2023-08-27,2023-08-29,2,Closed,98767.07,98767.07,None,0.0
+CLM-0570,Property Damage,North America - West,Adjuster_B,2023-01-15,2023-01-18,3,Closed,123469.41,123469.41,None,0.0
+CLM-0571,General Liability,North America - East,Adjuster_A,2023-04-27,2023-05-31,34,Closed,11340.3,11340.3,None,0.0
+CLM-0572,Workers Compensation,North America - Central,Adjuster_A,2023-05-21,,,Open,27670.25,0,None,0
+CLM-0573,Commercial Property,North America - West,Adjuster_D,2023-06-22,2023-07-04,12,Closed,38059.4,0,Fraud Suspected,0
+CLM-0574,Workers Compensation,North America - West,Adjuster_A,2024-05-13,2024-05-15,2,Closed,106597.7,106597.7,None,0.0
+CLM-0575,Workers Compensation,North America - West,Adjuster_B,2023-05-27,2023-06-07,11,Closed,37409.56,37409.56,None,0.0
+CLM-0576,General Liability,North America - West,Adjuster_D,2023-04-01,2023-04-12,11,Closed,84541.14,84541.14,None,0.0
+CLM-0577,Property Damage,Australia,Adjuster_C,2024-06-03,2024-07-02,29,Closed,42911.13,42911.13,None,0.0
+CLM-0578,Workers Compensation,Europe - UK,Adjuster_B,2023-06-13,2023-06-24,11,Closed,44189.55,44189.55,None,0.0
+CLM-0579,Workers Compensation,North America - East,Adjuster_A,2023-02-23,2023-03-04,9,Closed,73789.09,73789.09,None,0.0
+CLM-0580,Workers Compensation,Australia,Adjuster_E,2023-11-30,2023-12-07,7,Closed,36049.36,36049.36,None,0.0
+CLM-0581,Auto Liability,Europe - UK,Adjuster_B,2024-01-20,2024-01-24,4,Closed,10042.22,10042.22,None,0.0
+CLM-0582,General Liability,Europe - UK,Adjuster_B,2024-02-01,2024-02-07,6,Closed,95539.13,0,Fraud Suspected,0
+CLM-0583,Property Damage,North America - Central,Adjuster_B,2023-04-24,2023-05-08,14,Closed,114530.26,114530.26,None,0.0
+CLM-0584,Auto Liability,Australia,Adjuster_B,2023-08-24,2023-09-21,28,Closed,129605.46,129605.46,None,0.0
+CLM-0585,Workers Compensation,North America - Central,Adjuster_A,2024-03-14,2024-03-26,12,Closed,87761.12,0,Fraud Suspected,0
+CLM-0586,Property Damage,Europe - UK,Adjuster_A,2023-02-11,,,Open,60359.38,0,None,0
+CLM-0587,Property Damage,Europe - UK,Adjuster_D,2023-09-04,2023-10-06,32,Closed,142590.22,142590.22,None,0.0
+CLM-0588,Property Damage,North America - East,Adjuster_D,2023-11-09,,,Open,5613.19,0,None,0
+CLM-0589,Auto Liability,Europe - UK,Adjuster_B,2024-01-15,2024-01-26,11,Closed,129336.63,129336.63,None,0.0
+CLM-0590,Commercial Property,Australia,Adjuster_A,2023-10-31,,,Open,82280.4,0,None,0
+CLM-0591,Property Damage,Australia,Adjuster_C,2023-02-26,2023-03-24,26,Closed,58677.34,0,Coverage Lapsed,0
+CLM-0592,Auto Liability,Australia,Adjuster_A,2023-07-29,2023-08-01,3,Closed,98057.68,77797.79,None,-20259.89
+CLM-0593,Auto Liability,North America - West,Adjuster_C,2023-12-28,2024-01-02,5,Closed,10060.08,10060.08,None,0.0
+CLM-0594,General Liability,Australia,Adjuster_A,2024-04-26,,,Open,135118.78,0,None,0
+CLM-0595,Commercial Property,North America - East,Adjuster_B,2024-04-13,2024-04-15,2,Closed,44679.16,47890.38,None,3211.22
+CLM-0596,Auto Liability,Europe - UK,Adjuster_B,2023-07-29,2023-08-07,9,Closed,145497.04,0,Coverage Lapsed,0
+CLM-0597,Workers Compensation,Europe - UK,Adjuster_A,2023-10-26,2023-10-30,4,Closed,125572.23,125572.23,None,0.0
+CLM-0598,General Liability,North America - Central,Adjuster_C,2024-05-12,2024-06-12,31,Closed,69785.05,69785.05,None,0.0
+CLM-0599,Commercial Property,North America - West,Adjuster_C,2023-08-21,2023-09-16,26,Closed,23954.07,23954.07,None,0.0
+CLM-0600,General Liability,North America - West,Adjuster_E,2023-10-20,2023-11-09,20,Closed,25865.7,25865.7,None,0.0
+CLM-0601,General Liability,North America - West,Adjuster_D,2023-09-24,2023-09-30,6,Closed,100501.89,108500.72,None,7998.83
+CLM-0602,Auto Liability,Australia,Adjuster_C,2023-05-05,2023-06-01,27,Closed,142272.78,153826.85,None,11554.07
+CLM-0603,General Liability,Australia,Adjuster_C,2023-10-30,,,Open,100699.38,0,None,0
+CLM-0604,Workers Compensation,North America - Central,Adjuster_A,2024-05-05,2024-05-06,1,Closed,47596.17,47596.17,None,0.0
+CLM-0605,Workers Compensation,North America - Central,Adjuster_A,2023-12-01,,,Open,79912.21,0,None,0
+CLM-0606,Auto Liability,North America - East,Adjuster_A,2024-04-01,2024-04-18,17,Closed,30778.61,30778.61,None,0.0
+CLM-0607,Property Damage,North America - Central,Adjuster_D,2023-06-01,2023-06-13,12,Closed,3804.24,3804.24,None,0.0
+CLM-0608,Workers Compensation,Australia,Adjuster_A,2023-08-09,2023-08-21,12,Closed,120945.45,120945.45,None,0.0
+CLM-0609,Workers Compensation,Europe - UK,Adjuster_B,2023-03-30,,,Open,148022.48,0,None,0
+CLM-0610,General Liability,Europe - UK,Adjuster_A,2023-01-07,2023-02-11,35,Closed,27884.17,27884.17,None,0.0
+CLM-0611,Auto Liability,North America - West,Adjuster_B,2024-01-26,2024-01-31,5,Closed,125518.61,125518.61,None,0.0
+CLM-0612,Workers Compensation,North America - West,Adjuster_A,2023-01-03,2023-01-06,3,Closed,20378.18,0,Policy Exclusion,0
+CLM-0613,Property Damage,North America - East,Adjuster_C,2024-05-19,,,Open,73111.91,0,None,0
+CLM-0614,Commercial Property,Europe - UK,Adjuster_A,2024-01-18,2024-01-27,9,Closed,26101.39,26101.39,None,0.0
+CLM-0615,Auto Liability,North America - Central,Adjuster_B,2023-02-24,2023-03-01,5,Closed,9209.81,9209.81,None,0.0
+CLM-0616,Property Damage,Australia,Adjuster_B,2023-07-07,2023-07-20,13,Closed,82469.43,67827.86,None,-14641.57
+CLM-0617,Commercial Property,North America - Central,Adjuster_C,2023-04-09,2023-04-18,9,Closed,3908.85,3908.85,None,0.0
+CLM-0618,Workers Compensation,Europe - UK,Adjuster_C,2023-06-16,2023-06-18,2,Closed,125072.89,89786.77,None,-35286.12
+CLM-0619,General Liability,Australia,Adjuster_E,2023-04-27,2023-05-26,29,Closed,123189.02,141162.75,None,17973.73
+CLM-0620,Commercial Property,North America - West,Adjuster_D,2024-06-19,2024-07-02,13,Closed,6256.41,3670.76,None,-2585.65
+CLM-0621,Auto Liability,North America - West,Adjuster_C,2023-05-09,2023-05-28,19,Closed,104241.08,55280.79,None,-48960.29
+CLM-0622,Workers Compensation,North America - East,Adjuster_B,2023-04-21,2023-04-22,1,Closed,19600.49,0,Insufficient Documentation,0
+CLM-0623,Property Damage,North America - East,Adjuster_E,2023-07-30,2023-08-09,10,Closed,6330.35,6330.35,None,0.0
+CLM-0624,Commercial Property,Australia,Adjuster_C,2023-12-27,,,Open,37789.73,0,None,0
+CLM-0625,Property Damage,Australia,Adjuster_A,2024-06-25,2024-07-16,21,Closed,135445.72,135445.72,None,0.0
+CLM-0626,Property Damage,North America - West,Adjuster_E,2024-05-01,2024-05-07,6,Closed,28765.58,28765.58,None,0.0
+CLM-0627,Auto Liability,Australia,Adjuster_B,2024-02-22,2024-02-24,2,Closed,78919.68,78919.68,None,0.0
+CLM-0628,Commercial Property,Australia,Adjuster_A,2023-03-26,2023-04-01,6,Closed,69627.97,53470.67,None,-16157.3
+CLM-0629,Auto Liability,Australia,Adjuster_D,2023-10-25,2023-11-08,14,Closed,134423.69,116443.44,None,-17980.25
+CLM-0630,Property Damage,Europe - UK,Adjuster_A,2024-02-10,2024-02-18,8,Closed,19644.24,19644.24,None,0.0
+CLM-0631,Property Damage,North America - West,Adjuster_A,2024-01-08,2024-01-12,4,Closed,20168.8,15788.71,None,-4380.09
+CLM-0632,General Liability,Australia,Adjuster_C,2024-02-14,2024-02-20,6,Closed,148153.43,0,Duplicate Claim,0
+CLM-0633,Property Damage,North America - East,Adjuster_C,2024-05-16,2024-05-24,8,Closed,6399.08,5271.7,None,-1127.38
+CLM-0634,Property Damage,North America - West,Adjuster_D,2023-12-01,2023-12-04,3,Closed,114505.37,80472.09,None,-34033.28
+CLM-0635,Workers Compensation,North America - West,Adjuster_C,2024-05-24,2024-06-01,8,Closed,121803.28,0,Insufficient Documentation,0
+CLM-0636,Workers Compensation,North America - East,Adjuster_D,2024-04-05,2024-04-11,6,Closed,6863.25,6863.25,None,0.0
+CLM-0637,Commercial Property,North America - West,Adjuster_D,2024-03-17,2024-03-20,3,Closed,115073.65,115073.65,None,0.0
+CLM-0638,General Liability,Australia,Adjuster_E,2024-04-26,,,Open,10249.09,0,None,0
+CLM-0639,General Liability,Europe - UK,Adjuster_E,2023-12-28,2024-01-10,13,Closed,89388.59,89388.59,None,0.0
+CLM-0640,General Liability,North America - East,Adjuster_C,2024-01-25,2024-01-27,2,Closed,62965.58,62965.58,None,0.0
+CLM-0641,Auto Liability,North America - Central,Adjuster_E,2023-03-28,2023-04-14,17,Closed,51963.95,51963.95,None,0.0
+CLM-0642,Workers Compensation,Europe - UK,Adjuster_E,2024-06-11,2024-06-18,7,Closed,89022.41,100198.95,None,11176.54
+CLM-0643,General Liability,North America - East,Adjuster_D,2023-04-13,,,Open,122095.66,0,None,0
+CLM-0644,Commercial Property,North America - Central,Adjuster_D,2023-07-26,2023-08-30,35,Closed,126376.31,126376.31,None,0.0
+CLM-0645,Property Damage,North America - Central,Adjuster_E,2024-02-16,2024-02-29,13,Closed,108220.61,108220.61,None,0.0
+CLM-0646,Commercial Property,North America - East,Adjuster_E,2024-06-27,2024-07-05,8,Closed,98427.45,98427.45,None,0.0
+CLM-0647,Workers Compensation,Australia,Adjuster_C,2023-07-24,,,Open,69077.83,0,None,0
+CLM-0648,Property Damage,Australia,Adjuster_B,2024-05-26,,,Open,121722.15,0,None,0
+CLM-0649,General Liability,North America - East,Adjuster_E,2023-07-25,2023-07-31,6,Closed,112472.16,93262.77,None,-19209.39
+CLM-0650,Property Damage,North America - West,Adjuster_D,2023-10-01,2023-10-15,14,Closed,103654.53,103654.53,None,0.0
+CLM-0651,Auto Liability,North America - West,Adjuster_A,2023-09-09,,,Open,148711.38,0,None,0
+CLM-0652,Property Damage,North America - West,Adjuster_B,2023-10-07,2023-10-10,3,Closed,99483.27,99483.27,None,0.0
+CLM-0653,Workers Compensation,North America - East,Adjuster_A,2023-03-27,2023-04-02,6,Closed,135285.08,135285.08,None,0.0
+CLM-0654,Property Damage,Europe - UK,Adjuster_B,2023-08-30,2023-09-01,2,Closed,79249.72,68976.82,None,-10272.9
+CLM-0655,Commercial Property,Europe - UK,Adjuster_A,2023-09-01,2023-09-19,18,Closed,50734.31,50734.31,None,0.0
+CLM-0656,Auto Liability,Europe - UK,Adjuster_B,2023-05-28,2023-05-30,2,Closed,67042.36,67042.36,None,0.0
+CLM-0657,Workers Compensation,Australia,Adjuster_C,2023-04-26,2023-05-02,6,Closed,144570.67,125114.23,None,-19456.44
+CLM-0658,Commercial Property,North America - Central,Adjuster_A,2023-02-05,2023-02-19,14,Closed,39441.47,39441.47,None,0.0
+CLM-0659,Commercial Property,North America - East,Adjuster_E,2023-08-31,2023-09-14,14,Closed,139271.1,154615.66,None,15344.56
+CLM-0660,Auto Liability,North America - Central,Adjuster_B,2023-06-14,2023-06-22,8,Closed,118818.98,0,Duplicate Claim,0
+CLM-0661,Workers Compensation,Europe - UK,Adjuster_C,2024-03-08,2024-03-26,18,Closed,76937.51,76937.51,None,0.0
+CLM-0662,General Liability,North America - Central,Adjuster_D,2023-01-29,2023-02-11,13,Closed,95263.14,52687.75,None,-42575.39
+CLM-0663,Commercial Property,North America - Central,Adjuster_E,2023-03-26,2023-03-28,2,Closed,127350.14,103042.88,None,-24307.26
+CLM-0664,Workers Compensation,North America - West,Adjuster_C,2023-06-27,2023-07-30,33,Closed,31402.23,31402.23,None,0.0
+CLM-0665,Workers Compensation,Australia,Adjuster_B,2023-01-22,2023-01-23,1,Closed,136213.03,148424.97,None,12211.94
+CLM-0666,Auto Liability,North America - East,Adjuster_D,2024-03-15,2024-03-25,10,Closed,27178.19,0,Fraud Suspected,0
+CLM-0667,Workers Compensation,Europe - UK,Adjuster_D,2023-05-02,2023-05-06,4,Closed,44618.37,0,Policy Exclusion,0
+CLM-0668,General Liability,North America - West,Adjuster_C,2023-07-13,2023-07-20,7,Closed,6258.42,6866.09,None,607.67
+CLM-0669,Auto Liability,North America - Central,Adjuster_E,2024-04-14,2024-04-16,2,Closed,146211.08,146211.08,None,0.0
+CLM-0670,Workers Compensation,Europe - UK,Adjuster_E,2023-09-20,2023-09-22,2,Closed,51263.66,51263.66,None,0.0
+CLM-0671,General Liability,Australia,Adjuster_A,2023-01-06,2023-01-11,5,Closed,146673.53,80901.15,None,-65772.38
+CLM-0672,Property Damage,Australia,Adjuster_B,2023-09-24,2023-09-27,3,Closed,131928.72,131928.72,None,0.0
+CLM-0673,General Liability,Europe - UK,Adjuster_B,2023-09-24,2023-09-26,2,Closed,75883.17,83941.97,None,8058.8
+CLM-0674,Workers Compensation,North America - Central,Adjuster_C,2023-09-28,2023-10-07,9,Closed,48700.35,0,Duplicate Claim,0
+CLM-0675,Property Damage,North America - West,Adjuster_B,2023-02-25,2023-03-01,4,Closed,26206.13,0,Duplicate Claim,0
+CLM-0676,Property Damage,Europe - UK,Adjuster_C,2024-05-11,2024-05-19,8,Closed,20300.83,20300.83,None,0.0
+CLM-0677,Auto Liability,North America - West,Adjuster_E,2023-10-07,2023-10-17,10,Closed,79850.28,79850.28,None,0.0
+CLM-0678,Property Damage,North America - West,Adjuster_D,2023-04-07,2023-04-13,6,Closed,60337.13,60337.13,None,0.0
+CLM-0679,Commercial Property,North America - West,Adjuster_A,2023-03-25,2023-04-02,8,Closed,89942.23,89942.23,None,0.0
+CLM-0680,General Liability,Europe - UK,Adjuster_C,2023-05-13,2023-05-29,16,Closed,49829.29,0,Fraud Suspected,0
+CLM-0681,Workers Compensation,North America - East,Adjuster_D,2023-09-19,2023-10-11,22,Closed,15199.87,8565.84,None,-6634.03
+CLM-0682,Commercial Property,North America - West,Adjuster_A,2023-11-02,2023-11-10,8,Closed,135752.67,135752.67,None,0.0
+CLM-0683,Property Damage,North America - Central,Adjuster_E,2023-07-24,2023-08-22,29,Closed,41734.95,0,Duplicate Claim,0
+CLM-0684,Commercial Property,Australia,Adjuster_B,2024-03-20,,,Open,52578.24,0,None,0
+CLM-0685,Auto Liability,North America - West,Adjuster_D,2024-06-23,2024-07-04,11,Closed,71296.44,71296.44,None,0.0
+CLM-0686,Commercial Property,North America - West,Adjuster_B,2023-11-04,2023-11-18,14,Closed,86143.28,86143.28,None,0.0
+CLM-0687,General Liability,North America - East,Adjuster_E,2024-03-11,,,Open,122298.06,0,None,0
+CLM-0688,General Liability,North America - East,Adjuster_E,2023-01-17,2023-01-19,2,Closed,126750.65,126750.65,None,0.0
+CLM-0689,Commercial Property,North America - Central,Adjuster_E,2024-04-10,2024-04-23,13,Closed,52517.49,63651.26,None,11133.77
+CLM-0690,Property Damage,Australia,Adjuster_C,2023-04-19,2023-04-26,7,Closed,19268.38,19268.38,None,0.0
+CLM-0691,Workers Compensation,Australia,Adjuster_D,2023-11-07,2023-11-17,10,Closed,121086.83,0,Policy Exclusion,0
+CLM-0692,Property Damage,North America - East,Adjuster_B,2023-01-28,2023-02-01,4,Closed,66496.69,66496.69,None,0.0
+CLM-0693,Auto Liability,North America - East,Adjuster_C,2024-04-19,2024-04-22,3,Closed,26583.61,26583.61,None,0.0
+CLM-0694,Workers Compensation,Europe - UK,Adjuster_A,2024-04-05,,,Open,124758.71,0,None,0
+CLM-0695,Commercial Property,North America - East,Adjuster_A,2024-03-18,,,Open,110199.62,0,None,0
+CLM-0696,Workers Compensation,Europe - UK,Adjuster_E,2024-05-14,2024-05-18,4,Closed,87307.7,87307.7,None,0.0
+CLM-0697,Workers Compensation,Europe - UK,Adjuster_A,2024-05-21,2024-05-31,10,Closed,5079.42,5079.42,None,0.0
+CLM-0698,Commercial Property,Europe - UK,Adjuster_B,2024-06-03,2024-07-06,33,Closed,138416.87,107816.73,None,-30600.14
+CLM-0699,Commercial Property,Europe - UK,Adjuster_D,2024-01-04,2024-02-03,30,Closed,94032.67,94032.67,None,0.0
+CLM-0700,Workers Compensation,North America - West,Adjuster_B,2023-07-24,2023-07-27,3,Closed,141572.1,141572.1,None,0.0
+CLM-0701,General Liability,North America - East,Adjuster_A,2024-01-03,2024-01-08,5,Closed,124536.41,0,Duplicate Claim,0
+CLM-0702,Property Damage,Australia,Adjuster_B,2023-05-04,2023-05-13,9,Closed,118163.1,94570.3,None,-23592.8
+CLM-0703,Auto Liability,Australia,Adjuster_E,2023-04-17,2023-05-03,16,Closed,120250.06,144438.7,None,24188.64
+CLM-0704,General Liability,Australia,Adjuster_A,2023-02-12,2023-02-21,9,Closed,130888.68,141543.87,None,10655.19
+CLM-0705,Workers Compensation,Australia,Adjuster_D,2023-04-12,2023-04-15,3,Closed,20201.55,20201.55,None,0.0
+CLM-0706,Property Damage,North America - West,Adjuster_D,2023-12-16,2023-12-21,5,Closed,57120.58,36594.35,None,-20526.23
+CLM-0707,Auto Liability,Australia,Adjuster_D,2023-08-22,2023-08-25,3,Closed,134913.66,155586.62,None,20672.96
+CLM-0708,Property Damage,Europe - UK,Adjuster_B,2023-01-11,2023-02-11,31,Closed,52068.94,52068.94,None,0.0
+CLM-0709,Workers Compensation,North America - East,Adjuster_D,2023-02-07,,,Open,10555.85,0,None,0
+CLM-0710,General Liability,North America - Central,Adjuster_D,2024-02-16,2024-03-19,32,Closed,136566.17,136566.17,None,0.0
+CLM-0711,General Liability,Australia,Adjuster_B,2024-02-18,,,Open,94405.23,0,None,0
+CLM-0712,Workers Compensation,North America - Central,Adjuster_D,2023-07-22,2023-07-27,5,Closed,59719.04,50352.2,None,-9366.84
+CLM-0713,General Liability,North America - Central,Adjuster_B,2023-04-06,2023-04-15,9,Closed,114042.86,0,Fraud Suspected,0
+CLM-0714,General Liability,North America - Central,Adjuster_B,2023-11-08,2023-12-06,28,Closed,110333.95,66344.36,None,-43989.59
+CLM-0715,Property Damage,North America - East,Adjuster_A,2024-04-04,2024-04-09,5,Closed,52169.08,52169.08,None,0.0
+CLM-0716,General Liability,Australia,Adjuster_E,2023-08-28,,,Open,101520.2,0,None,0
+CLM-0717,Auto Liability,North America - East,Adjuster_C,2024-06-12,2024-07-03,21,Closed,69237.82,69237.82,None,0.0
+CLM-0718,Workers Compensation,North America - East,Adjuster_A,2023-03-05,2023-03-12,7,Closed,13554.76,8906.48,None,-4648.28
+CLM-0719,Workers Compensation,North America - Central,Adjuster_E,2024-05-25,2024-06-22,28,Closed,110294.11,0,Fraud Suspected,0
+CLM-0720,Auto Liability,Europe - UK,Adjuster_D,2023-05-13,2023-06-13,31,Closed,104781.66,0,Policy Exclusion,0
+CLM-0721,General Liability,North America - Central,Adjuster_A,2024-02-23,2024-02-25,2,Closed,7961.76,7961.76,None,0.0
+CLM-0722,Commercial Property,North America - Central,Adjuster_C,2024-05-12,,,Open,64420.03,0,None,0
+CLM-0723,Commercial Property,North America - West,Adjuster_B,2024-05-15,2024-05-16,1,Closed,130823.13,130823.13,None,0.0
+CLM-0724,General Liability,Europe - UK,Adjuster_C,2024-01-22,2024-01-30,8,Closed,76705.05,76705.05,None,0.0
+CLM-0725,Workers Compensation,North America - West,Adjuster_C,2023-04-02,2023-04-15,13,Closed,59310.8,0,Duplicate Claim,0
+CLM-0726,Commercial Property,North America - East,Adjuster_B,2023-01-26,2023-03-02,35,Closed,85034.56,85034.56,None,0.0
+CLM-0727,Auto Liability,Australia,Adjuster_E,2023-02-24,2023-03-06,10,Closed,76390.54,76390.54,None,0.0
+CLM-0728,General Liability,North America - West,Adjuster_A,2023-10-09,,,Open,67745.96,0,None,0
+CLM-0729,Workers Compensation,Australia,Adjuster_A,2024-05-18,2024-06-01,14,Closed,63410.59,39554.2,None,-23856.39
+CLM-0730,Property Damage,North America - East,Adjuster_E,2023-06-22,2023-06-27,5,Closed,24825.65,0,Coverage Lapsed,0
+CLM-0731,Auto Liability,North America - East,Adjuster_A,2023-11-02,2023-11-09,7,Closed,134165.63,134165.63,None,0.0
+CLM-0732,Property Damage,North America - East,Adjuster_B,2023-09-03,2023-09-16,13,Closed,77275.95,77275.95,None,0.0
+CLM-0733,Commercial Property,North America - East,Adjuster_C,2024-04-20,2024-04-29,9,Closed,62309.08,62309.08,None,0.0
+CLM-0734,Commercial Property,Australia,Adjuster_E,2023-04-14,2023-04-18,4,Closed,47082.7,0,Fraud Suspected,0
+CLM-0735,Auto Liability,North America - West,Adjuster_C,2023-06-22,2023-07-05,13,Closed,144280.11,0,Duplicate Claim,0
+CLM-0736,General Liability,North America - Central,Adjuster_B,2023-01-01,2023-01-02,1,Closed,126244.18,126244.18,None,0.0
+CLM-0737,Auto Liability,Australia,Adjuster_E,2023-10-16,,,Open,12350.41,0,None,0
+CLM-0738,Property Damage,North America - West,Adjuster_E,2023-10-14,2023-10-21,7,Closed,132821.88,156335.87,None,23513.99
+CLM-0739,Workers Compensation,North America - Central,Adjuster_B,2023-11-26,,,Open,50611.67,0,None,0
+CLM-0740,Property Damage,Australia,Adjuster_D,2023-01-05,2023-01-06,1,Closed,114844.86,114844.86,None,0.0
+CLM-0741,Property Damage,Australia,Adjuster_A,2024-03-31,2024-04-11,11,Closed,124465.09,0,Insufficient Documentation,0
+CLM-0742,Property Damage,Europe - UK,Adjuster_C,2023-07-17,2023-07-25,8,Closed,114246.31,88722.21,None,-25524.1
+CLM-0743,General Liability,North America - Central,Adjuster_B,2023-08-28,2023-09-05,8,Closed,135867.12,79012.66,None,-56854.46
+CLM-0744,Workers Compensation,North America - East,Adjuster_C,2024-05-27,,,Open,101481.98,0,None,0
+CLM-0745,Auto Liability,North America - East,Adjuster_E,2023-05-12,,,Open,128610.89,0,None,0
+CLM-0746,Commercial Property,North America - West,Adjuster_A,2024-06-29,2024-07-09,10,Closed,2289.33,2289.33,None,0.0
+CLM-0747,Property Damage,North America - Central,Adjuster_D,2024-02-21,2024-02-26,5,Closed,75345.06,0,Policy Exclusion,0
+CLM-0748,Property Damage,North America - Central,Adjuster_D,2024-06-29,2024-07-07,8,Closed,51536.46,42001.83,None,-9534.63
+CLM-0749,Auto Liability,Europe - UK,Adjuster_A,2023-09-13,2023-09-17,4,Closed,94647.21,94647.21,None,0.0
+CLM-0750,Property Damage,Australia,Adjuster_C,2023-09-14,2023-09-18,4,Closed,125212.59,87983.54,None,-37229.05
+CLM-0751,Property Damage,Australia,Adjuster_E,2024-03-25,,,Open,20474.3,0,None,0
+CLM-0752,Workers Compensation,North America - Central,Adjuster_A,2023-05-11,,,Open,94675.41,0,None,0
+CLM-0753,Property Damage,Australia,Adjuster_A,2023-10-29,,,Open,113290.58,0,None,0
+CLM-0754,General Liability,Australia,Adjuster_A,2024-04-09,,,Open,93646.12,0,None,0
+CLM-0755,Property Damage,Europe - UK,Adjuster_E,2023-12-03,2023-12-13,10,Closed,90085.92,90085.92,None,0.0
+CLM-0756,Auto Liability,Australia,Adjuster_B,2024-06-05,,,Open,67804.4,0,None,0
+CLM-0757,Property Damage,North America - East,Adjuster_B,2023-11-16,2023-11-26,10,Closed,48055.86,0,Coverage Lapsed,0
+CLM-0758,General Liability,North America - Central,Adjuster_C,2024-01-13,2024-01-14,1,Closed,10483.01,10483.01,None,0.0
+CLM-0759,Property Damage,Europe - UK,Adjuster_C,2023-07-20,2023-08-24,35,Closed,52549.68,40513.95,None,-12035.73
+CLM-0760,General Liability,North America - Central,Adjuster_E,2023-12-10,2023-12-20,10,Closed,17517.49,14979.41,None,-2538.08
+CLM-0761,Property Damage,North America - West,Adjuster_B,2024-04-22,2024-05-02,10,Closed,121476.15,121476.15,None,0.0
+CLM-0762,Property Damage,North America - Central,Adjuster_A,2023-03-17,2023-03-23,6,Closed,45005.28,45005.28,None,0.0
+CLM-0763,Commercial Property,North America - East,Adjuster_A,2023-07-23,2023-07-27,4,Closed,108387.83,108387.83,None,0.0
+CLM-0764,Auto Liability,North America - West,Adjuster_A,2023-06-30,2023-07-23,23,Closed,125053.97,125053.97,None,0.0
+CLM-0765,Property Damage,North America - Central,Adjuster_B,2023-11-09,2023-11-17,8,Closed,99814.49,124311.0,None,24496.51
+CLM-0766,Workers Compensation,North America - East,Adjuster_A,2023-05-28,2023-05-31,3,Closed,104764.38,104764.38,None,0.0
+CLM-0767,Auto Liability,North America - East,Adjuster_E,2023-07-13,2023-07-27,14,Closed,50496.73,50496.73,None,0.0
+CLM-0768,Auto Liability,Australia,Adjuster_E,2024-05-15,,,Open,11601.21,0,None,0
+CLM-0769,General Liability,North America - Central,Adjuster_D,2024-06-15,2024-06-23,8,Closed,79770.4,79770.4,None,0.0
+CLM-0770,Workers Compensation,North America - Central,Adjuster_E,2024-02-15,2024-02-26,11,Closed,34489.89,34489.89,None,0.0
+CLM-0771,Workers Compensation,North America - West,Adjuster_C,2024-03-11,2024-03-18,7,Closed,39670.33,39670.33,None,0.0
+CLM-0772,Commercial Property,Europe - UK,Adjuster_E,2023-12-27,,,Open,93926.62,0,None,0
+CLM-0773,Workers Compensation,Europe - UK,Adjuster_D,2024-01-12,2024-01-25,13,Closed,5658.29,5658.29,None,0.0
+CLM-0774,Property Damage,North America - Central,Adjuster_A,2023-10-29,2023-11-12,14,Closed,118309.25,0,Insufficient Documentation,0
+CLM-0775,General Liability,North America - West,Adjuster_C,2023-07-21,2023-08-01,11,Closed,30215.08,0,Fraud Suspected,0
+CLM-0776,Commercial Property,North America - East,Adjuster_C,2023-10-16,2023-11-11,26,Closed,141980.62,0,Fraud Suspected,0
+CLM-0777,Auto Liability,Europe - UK,Adjuster_B,2023-08-21,,,Open,88876.54,0,None,0
+CLM-0778,Workers Compensation,Europe - UK,Adjuster_C,2023-03-29,2023-04-04,6,Closed,33018.54,33018.54,None,0.0
+CLM-0779,Commercial Property,North America - West,Adjuster_E,2023-05-12,2023-05-17,5,Closed,52293.69,52293.69,None,0.0
+CLM-0780,Workers Compensation,Australia,Adjuster_C,2023-11-30,2023-12-10,10,Closed,138477.34,138477.34,None,0.0
+CLM-0781,Commercial Property,Australia,Adjuster_E,2024-02-05,2024-02-26,21,Closed,81104.61,0,Fraud Suspected,0
+CLM-0782,Workers Compensation,North America - Central,Adjuster_A,2023-06-25,,,Open,74314.77,0,None,0
+CLM-0783,Property Damage,Europe - UK,Adjuster_C,2023-07-30,2023-08-03,4,Closed,69290.23,0,Coverage Lapsed,0
+CLM-0784,Workers Compensation,Europe - UK,Adjuster_B,2023-04-24,2023-04-27,3,Closed,59570.95,65009.54,None,5438.59
+CLM-0785,Commercial Property,Europe - UK,Adjuster_D,2023-06-12,,,Open,32039.98,0,None,0
+CLM-0786,Auto Liability,North America - East,Adjuster_B,2024-04-01,2024-04-03,2,Closed,79826.76,97855.46,None,18028.7
+CLM-0787,General Liability,North America - East,Adjuster_A,2023-10-22,2023-11-02,11,Closed,59881.37,49787.71,None,-10093.66
+CLM-0788,Auto Liability,Australia,Adjuster_D,2024-04-13,2024-04-20,7,Closed,60245.6,66146.0,None,5900.4
+CLM-0789,Commercial Property,Australia,Adjuster_C,2023-03-10,2023-03-31,21,Closed,148873.68,148873.68,None,0.0
+CLM-0790,Property Damage,North America - East,Adjuster_E,2023-11-30,2023-12-07,7,Closed,76897.56,0,Duplicate Claim,0
+CLM-0791,Workers Compensation,North America - Central,Adjuster_D,2023-07-19,2023-07-26,7,Closed,106946.74,106946.74,None,0.0
+CLM-0792,Workers Compensation,Europe - UK,Adjuster_D,2023-03-11,2023-03-13,2,Closed,22757.85,0,Insufficient Documentation,0
+CLM-0793,General Liability,North America - East,Adjuster_B,2023-10-29,2023-10-31,2,Closed,13482.62,0,Coverage Lapsed,0
+CLM-0794,Auto Liability,North America - West,Adjuster_A,2024-06-29,,,Open,96869.8,0,None,0
+CLM-0795,Workers Compensation,North America - Central,Adjuster_D,2023-02-23,2023-03-05,10,Closed,115532.91,129966.31,None,14433.4
+CLM-0796,Property Damage,North America - East,Adjuster_D,2023-01-29,2023-02-23,25,Closed,34644.04,28089.4,None,-6554.64
+CLM-0797,Auto Liability,North America - West,Adjuster_A,2024-03-01,2024-03-19,18,Closed,85184.01,85184.01,None,0.0
+CLM-0798,General Liability,Europe - UK,Adjuster_D,2023-05-04,2023-05-08,4,Closed,27695.99,27695.99,None,0.0
+CLM-0799,Workers Compensation,North America - West,Adjuster_D,2023-08-14,2023-08-16,2,Closed,8502.96,5614.74,None,-2888.22
+CLM-0800,Workers Compensation,North America - East,Adjuster_E,2023-06-25,2023-06-30,5,Closed,102329.28,121643.33,None,19314.05
